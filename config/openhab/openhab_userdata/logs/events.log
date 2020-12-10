@@ -1,0 +1,1302 @@
+2018-10-16 12:14:56.225 [thome.event.ExtensionEvent] - Extension 'package-expert' has been installed.
+2018-10-16 12:15:15.271 [thome.event.ExtensionEvent] - Extension 'misc-restdocs' has been installed.
+2018-10-16 12:15:15.274 [thome.event.ExtensionEvent] - Extension 'transformation-javascript' has been installed.
+2018-10-16 12:15:15.274 [thome.event.ExtensionEvent] - Extension 'ui-habpanel' has been installed.
+2018-10-16 12:15:15.281 [thome.event.ExtensionEvent] - Extension 'transformation-regex' has been installed.
+2018-10-16 12:15:15.289 [thome.event.ExtensionEvent] - Extension 'transformation-jsonpath' has been installed.
+2018-10-16 12:15:15.289 [thome.event.ExtensionEvent] - Extension 'transformation-xpath' has been installed.
+2018-10-16 12:15:15.294 [thome.event.ExtensionEvent] - Extension 'ui-basic' has been installed.
+2018-10-16 12:15:15.296 [thome.event.ExtensionEvent] - Extension 'transformation-map' has been installed.
+2018-10-16 12:15:15.297 [thome.event.ExtensionEvent] - Extension 'ui-classic' has been installed.
+2018-10-16 12:15:15.298 [thome.event.ExtensionEvent] - Extension 'ui-habmin' has been installed.
+2018-10-16 12:15:15.298 [thome.event.ExtensionEvent] - Extension 'transformation-xslt' has been installed.
+2018-10-16 12:15:15.298 [thome.event.ExtensionEvent] - Extension 'transformation-exec' has been installed.
+2018-10-16 12:15:15.299 [thome.event.ExtensionEvent] - Extension 'ui-paper' has been installed.
+2018-10-16 12:15:15.300 [thome.event.ExtensionEvent] - Extension 'transformation-scale' has been installed.
+2018-10-16 12:17:41.209 [thome.event.ExtensionEvent] - Extension 'binding-mqtt1' has been installed.
+2018-10-16 12:18:44.230 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 12:18:44.246 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 12:19:38.778 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 605
+2018-10-16 12:19:38.793 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 27.4
+2018-10-16 12:19:38.820 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 33.8
+2018-10-16 12:20:27.239 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 605 to 625
+2018-10-16 12:21:28.116 [thome.event.ExtensionEvent] - Extension 'binding-ntp' has been installed.
+2018-10-16 12:21:28.260 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-16 12:21:28.419 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-16 12:21:28.443 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-16T12:21:28.437+0200
+2018-10-16 12:21:28.451 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-16T12:21:28.437+0200
+2018-10-16 12:21:28.456 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:21:28.437+0200 to 2018-10-16T12:21:28.456+0200
+2018-10-16 12:21:28.461 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:21:28.437+0200 to 2018-10-16T12:21:28.456+0200
+2018-10-16 12:21:29.108 [home.event.InboxAddedEvent] - Discovery Result with UID 'ntp:ntp:local' has been added.
+2018-10-16 12:21:35.796 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.4 to 27.7
+2018-10-16 12:21:57.495 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 625 to 647
+2018-10-16 12:22:22.404 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 647 to 667
+2018-10-16 12:22:28.450 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:21:28.456+0200 to 2018-10-16T12:22:28.458+0200
+2018-10-16 12:22:28.453 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:21:28.456+0200 to 2018-10-16T12:22:28.458+0200
+2018-10-16 12:22:48.390 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 667 to 690
+2018-10-16 12:23:18.490 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 690 to 712
+2018-10-16 12:23:28.463 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:22:28.458+0200 to 2018-10-16T12:23:28.460+0200
+2018-10-16 12:23:28.467 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:22:28.458+0200 to 2018-10-16T12:23:28.460+0200
+2018-10-16 12:24:03.748 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 712 to 732
+2018-10-16 12:24:32.085 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 12:24:32.086 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 12:24:33.573 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 732
+2018-10-16 12:24:33.610 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 27.7
+2018-10-16 12:24:33.625 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 32.7
+2018-10-16 12:24:33.741 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-16 12:24:33.905 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-16 12:24:33.920 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-16T12:24:33.934+0200
+2018-10-16 12:24:33.922 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-16T12:24:33.934+0200
+2018-10-16 12:24:33.932 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:24:33.934+0200 to 2018-10-16T12:24:33.955+0200
+2018-10-16 12:24:33.936 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:24:33.934+0200 to 2018-10-16T12:24:33.955+0200
+2018-10-16 12:24:48.396 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.7 to 28.1
+2018-10-16 12:25:09.997 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 732 to 752
+2018-10-16 12:25:33.933 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:24:33.955+0200 to 2018-10-16T12:25:33.945+0200
+2018-10-16 12:25:33.939 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:24:33.955+0200 to 2018-10-16T12:25:33.945+0200
+2018-10-16 12:26:14.711 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 752 to 772
+2018-10-16 12:26:33.942 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:25:33.945+0200 to 2018-10-16T12:26:33.949+0200
+2018-10-16 12:26:33.946 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:25:33.945+0200 to 2018-10-16T12:26:33.949+0200
+2018-10-16 12:26:44.749 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 772 to 794
+2018-10-16 12:27:33.951 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:26:33.949+0200 to 2018-10-16T12:27:33.953+0200
+2018-10-16 12:27:33.954 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:26:33.949+0200 to 2018-10-16T12:27:33.953+0200
+2018-10-16 12:28:00.706 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 794 to 815
+2018-10-16 12:28:33.942 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:27:33.953+0200 to 2018-10-16T12:28:33.958+0200
+2018-10-16 12:28:33.943 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:27:33.953+0200 to 2018-10-16T12:28:33.958+0200
+2018-10-16 12:28:45.771 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 815 to 835
+2018-10-16 12:29:25.532 [vent.ItemStateChangedEvent] - TempMqtt changed from 28.1 to 28.5
+2018-10-16 12:29:32.093 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 835 to 856
+2018-10-16 12:29:33.942 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:28:33.958+0200 to 2018-10-16T12:29:33.960+0200
+2018-10-16 12:29:33.945 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:28:33.958+0200 to 2018-10-16T12:29:33.960+0200
+2018-10-16 12:30:33.943 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:29:33.960+0200 to 2018-10-16T12:30:33.963+0200
+2018-10-16 12:30:33.946 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:29:33.960+0200 to 2018-10-16T12:30:33.963+0200
+2018-10-16 12:31:33.947 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:30:33.963+0200 to 2018-10-16T12:31:33.964+0200
+2018-10-16 12:31:33.951 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:30:33.963+0200 to 2018-10-16T12:31:33.964+0200
+2018-10-16 12:31:47.957 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 856 to 877
+2018-10-16 12:32:33.957 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:31:33.964+0200 to 2018-10-16T12:32:33.967+0200
+2018-10-16 12:32:33.963 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:31:33.964+0200 to 2018-10-16T12:32:33.967+0200
+2018-10-16 12:33:33.954 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:32:33.967+0200 to 2018-10-16T12:33:33.971+0200
+2018-10-16 12:33:33.955 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:32:33.967+0200 to 2018-10-16T12:33:33.971+0200
+2018-10-16 12:33:39.118 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 877 to 899
+2018-10-16 12:34:19.231 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 899 to 920
+2018-10-16 12:34:33.952 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:33:33.971+0200 to 2018-10-16T12:34:33.974+0200
+2018-10-16 12:34:33.953 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:33:33.971+0200 to 2018-10-16T12:34:33.974+0200
+2018-10-16 12:35:10.413 [vent.ItemStateChangedEvent] - TempMqtt changed from 28.5 to 28.9
+2018-10-16 12:35:33.953 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:34:33.974+0200 to 2018-10-16T12:35:33.977+0200
+2018-10-16 12:35:33.956 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:34:33.974+0200 to 2018-10-16T12:35:33.977+0200
+2018-10-16 12:35:35.232 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 920 to 941
+2018-10-16 12:36:33.964 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:35:33.977+0200 to 2018-10-16T12:36:33.978+0200
+2018-10-16 12:36:33.968 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:35:33.977+0200 to 2018-10-16T12:36:33.978+0200
+2018-10-16 12:36:50.495 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 941 to 964
+2018-10-16 12:37:16.401 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 964 to 986
+2018-10-16 12:37:33.962 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:36:33.978+0200 to 2018-10-16T12:37:33.981+0200
+2018-10-16 12:37:33.969 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:36:33.978+0200 to 2018-10-16T12:37:33.981+0200
+2018-10-16 12:37:56.743 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 986 to 1008
+2018-10-16 12:38:33.967 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:37:33.981+0200 to 2018-10-16T12:38:33.985+0200
+2018-10-16 12:38:33.971 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:37:33.981+0200 to 2018-10-16T12:38:33.985+0200
+2018-10-16 12:39:33.969 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:38:33.985+0200 to 2018-10-16T12:39:33.988+0200
+2018-10-16 12:39:33.972 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:38:33.985+0200 to 2018-10-16T12:39:33.988+0200
+2018-10-16 12:40:33.974 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:39:33.988+0200 to 2018-10-16T12:40:33.991+0200
+2018-10-16 12:40:33.977 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:39:33.988+0200 to 2018-10-16T12:40:33.991+0200
+2018-10-16 12:41:33.976 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:40:33.991+0200 to 2018-10-16T12:41:33.997+0200
+2018-10-16 12:41:33.976 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:40:33.991+0200 to 2018-10-16T12:41:33.997+0200
+2018-10-16 12:42:33.979 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:41:33.997+0200 to 2018-10-16T12:42:33.999+0200
+2018-10-16 12:42:33.981 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:41:33.997+0200 to 2018-10-16T12:42:33.999+0200
+2018-10-16 12:43:33.980 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:42:33.999+0200 to 2018-10-16T12:43:34.002+0200
+2018-10-16 12:43:33.980 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:42:33.999+0200 to 2018-10-16T12:43:34.002+0200
+2018-10-16 12:44:33.990 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:43:34.002+0200 to 2018-10-16T12:44:34.005+0200
+2018-10-16 12:44:33.995 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:43:34.002+0200 to 2018-10-16T12:44:34.005+0200
+2018-10-16 12:45:33.989 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:44:34.005+0200 to 2018-10-16T12:45:34.007+0200
+2018-10-16 12:45:33.991 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:44:34.005+0200 to 2018-10-16T12:45:34.007+0200
+2018-10-16 12:46:33.990 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:45:34.007+0200 to 2018-10-16T12:46:34.010+0200
+2018-10-16 12:46:33.992 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:45:34.007+0200 to 2018-10-16T12:46:34.010+0200
+2018-10-16 12:47:33.994 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:46:34.010+0200 to 2018-10-16T12:47:34.013+0200
+2018-10-16 12:47:33.997 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:46:34.010+0200 to 2018-10-16T12:47:34.013+0200
+2018-10-16 12:48:33.993 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:47:34.013+0200 to 2018-10-16T12:48:34.015+0200
+2018-10-16 12:48:33.997 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:47:34.013+0200 to 2018-10-16T12:48:34.015+0200
+2018-10-16 12:49:33.996 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:48:34.015+0200 to 2018-10-16T12:49:34.018+0200
+2018-10-16 12:49:33.999 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:48:34.015+0200 to 2018-10-16T12:49:34.018+0200
+2018-10-16 12:50:34.003 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:49:34.018+0200 to 2018-10-16T12:50:34.020+0200
+2018-10-16 12:50:34.007 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:49:34.018+0200 to 2018-10-16T12:50:34.020+0200
+2018-10-16 12:51:34.005 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:50:34.020+0200 to 2018-10-16T12:51:34.023+0200
+2018-10-16 12:51:34.009 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:50:34.020+0200 to 2018-10-16T12:51:34.023+0200
+2018-10-16 12:52:34.010 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:51:34.023+0200 to 2018-10-16T12:52:34.025+0200
+2018-10-16 12:52:34.016 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:51:34.023+0200 to 2018-10-16T12:52:34.025+0200
+2018-10-16 12:53:34.009 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:52:34.025+0200 to 2018-10-16T12:53:34.028+0200
+2018-10-16 12:53:34.012 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:52:34.025+0200 to 2018-10-16T12:53:34.028+0200
+2018-10-16 12:54:54.113 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from ONLINE to OFFLINE (COMMUNICATION_ERROR): The timeserver hostname nl.pool.ntp.org is unknown -> returning current sytem time instead.
+2018-10-16 12:54:54.120 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:53:34.028+0200 to 2018-10-16T12:54:54.060+0200
+2018-10-16 12:54:54.122 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:53:34.028+0200 to 2018-10-16T12:54:54.060+0200
+2018-10-16 12:55:54.082 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:54:54.060+0200 to 2018-10-16T12:55:54.073+0200
+2018-10-16 12:55:54.085 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:54:54.060+0200 to 2018-10-16T12:55:54.073+0200
+2018-10-16 12:56:54.088 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:55:54.073+0200 to 2018-10-16T12:56:54.075+0200
+2018-10-16 12:56:54.092 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:55:54.073+0200 to 2018-10-16T12:56:54.075+0200
+2018-10-16 12:57:54.091 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:56:54.075+0200 to 2018-10-16T12:57:54.079+0200
+2018-10-16 12:57:54.098 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:56:54.075+0200 to 2018-10-16T12:57:54.079+0200
+2018-10-16 12:58:54.091 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:57:54.079+0200 to 2018-10-16T12:58:54.081+0200
+2018-10-16 12:58:54.094 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:57:54.079+0200 to 2018-10-16T12:58:54.081+0200
+2018-10-16 12:59:54.086 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:58:54.081+0200 to 2018-10-16T12:59:54.084+0200
+2018-10-16 12:59:54.088 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:58:54.081+0200 to 2018-10-16T12:59:54.084+0200
+2018-10-16 13:00:54.096 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T12:59:54.084+0200 to 2018-10-16T13:00:54.085+0200
+2018-10-16 13:00:54.099 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T12:59:54.084+0200 to 2018-10-16T13:00:54.085+0200
+2018-10-16 13:01:54.098 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:00:54.085+0200 to 2018-10-16T13:01:54.088+0200
+2018-10-16 13:01:54.101 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:00:54.085+0200 to 2018-10-16T13:01:54.088+0200
+2018-10-16 13:02:54.114 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:01:54.088+0200 to 2018-10-16T13:02:54.091+0200
+2018-10-16 13:02:54.118 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:01:54.088+0200 to 2018-10-16T13:02:54.091+0200
+2018-10-16 13:03:54.104 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:02:54.091+0200 to 2018-10-16T13:03:54.093+0200
+2018-10-16 13:03:54.109 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:02:54.091+0200 to 2018-10-16T13:03:54.093+0200
+2018-10-16 13:04:54.103 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:03:54.093+0200 to 2018-10-16T13:04:54.096+0200
+2018-10-16 13:04:54.106 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:03:54.093+0200 to 2018-10-16T13:04:54.096+0200
+2018-10-16 13:05:54.110 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:04:54.096+0200 to 2018-10-16T13:05:54.098+0200
+2018-10-16 13:05:54.112 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:04:54.096+0200 to 2018-10-16T13:05:54.098+0200
+2018-10-16 13:06:54.110 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:05:54.098+0200 to 2018-10-16T13:06:54.100+0200
+2018-10-16 13:06:54.112 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:05:54.098+0200 to 2018-10-16T13:06:54.100+0200
+2018-10-16 13:07:54.114 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:06:54.100+0200 to 2018-10-16T13:07:54.102+0200
+2018-10-16 13:07:54.116 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:06:54.100+0200 to 2018-10-16T13:07:54.102+0200
+2018-10-16 13:08:54.123 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:07:54.102+0200 to 2018-10-16T13:08:54.105+0200
+2018-10-16 13:08:54.127 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:07:54.102+0200 to 2018-10-16T13:08:54.105+0200
+2018-10-16 13:09:54.116 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:08:54.105+0200 to 2018-10-16T13:09:54.108+0200
+2018-10-16 13:09:54.121 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:08:54.105+0200 to 2018-10-16T13:09:54.108+0200
+2018-10-16 13:10:54.114 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:09:54.108+0200 to 2018-10-16T13:10:54.111+0200
+2018-10-16 13:10:54.115 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:09:54.108+0200 to 2018-10-16T13:10:54.111+0200
+2018-10-16 13:11:54.120 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:10:54.111+0200 to 2018-10-16T13:11:54.112+0200
+2018-10-16 13:11:54.124 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:10:54.111+0200 to 2018-10-16T13:11:54.112+0200
+2018-10-16 13:12:54.123 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:11:54.112+0200 to 2018-10-16T13:12:54.114+0200
+2018-10-16 13:12:54.125 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:11:54.112+0200 to 2018-10-16T13:12:54.114+0200
+2018-10-16 13:13:54.126 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:12:54.114+0200 to 2018-10-16T13:13:54.117+0200
+2018-10-16 13:13:54.130 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:12:54.114+0200 to 2018-10-16T13:13:54.117+0200
+2018-10-16 13:14:54.133 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:13:54.117+0200 to 2018-10-16T13:14:54.119+0200
+2018-10-16 13:14:54.139 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:13:54.117+0200 to 2018-10-16T13:14:54.119+0200
+2018-10-16 13:15:54.126 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:14:54.119+0200 to 2018-10-16T13:15:54.122+0200
+2018-10-16 13:15:54.127 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:14:54.119+0200 to 2018-10-16T13:15:54.122+0200
+2018-10-16 13:16:54.131 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:15:54.122+0200 to 2018-10-16T13:16:54.123+0200
+2018-10-16 13:16:54.136 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:15:54.122+0200 to 2018-10-16T13:16:54.123+0200
+2018-10-16 13:17:54.130 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:16:54.123+0200 to 2018-10-16T13:17:54.125+0200
+2018-10-16 13:17:54.131 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:16:54.123+0200 to 2018-10-16T13:17:54.125+0200
+2018-10-16 13:18:54.128 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:17:54.125+0200 to 2018-10-16T13:18:54.126+0200
+2018-10-16 13:18:54.130 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:17:54.125+0200 to 2018-10-16T13:18:54.126+0200
+2018-10-16 13:19:54.135 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:18:54.126+0200 to 2018-10-16T13:19:54.127+0200
+2018-10-16 13:19:54.137 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:18:54.126+0200 to 2018-10-16T13:19:54.127+0200
+2018-10-16 13:20:54.140 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:19:54.127+0200 to 2018-10-16T13:20:54.129+0200
+2018-10-16 13:20:54.144 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:19:54.127+0200 to 2018-10-16T13:20:54.129+0200
+2018-10-16 13:21:54.147 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:20:54.129+0200 to 2018-10-16T13:21:54.132+0200
+2018-10-16 13:21:54.151 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:20:54.129+0200 to 2018-10-16T13:21:54.132+0200
+2018-10-16 13:22:54.143 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:21:54.132+0200 to 2018-10-16T13:22:54.134+0200
+2018-10-16 13:22:54.146 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:21:54.132+0200 to 2018-10-16T13:22:54.134+0200
+2018-10-16 13:23:54.138 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:22:54.134+0200 to 2018-10-16T13:23:54.136+0200
+2018-10-16 13:23:54.140 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:22:54.134+0200 to 2018-10-16T13:23:54.136+0200
+2018-10-16 13:24:54.143 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:23:54.136+0200 to 2018-10-16T13:24:54.137+0200
+2018-10-16 13:24:54.145 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:23:54.136+0200 to 2018-10-16T13:24:54.137+0200
+2018-10-16 13:25:54.150 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:24:54.137+0200 to 2018-10-16T13:25:54.143+0200
+2018-10-16 13:25:54.153 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:24:54.137+0200 to 2018-10-16T13:25:54.143+0200
+2018-10-16 13:26:54.151 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:25:54.143+0200 to 2018-10-16T13:26:54.146+0200
+2018-10-16 13:26:54.152 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:25:54.143+0200 to 2018-10-16T13:26:54.146+0200
+2018-10-16 13:27:54.161 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:26:54.146+0200 to 2018-10-16T13:27:54.147+0200
+2018-10-16 13:27:54.164 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:26:54.146+0200 to 2018-10-16T13:27:54.147+0200
+2018-10-16 13:28:54.158 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:27:54.147+0200 to 2018-10-16T13:28:54.150+0200
+2018-10-16 13:28:54.161 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:27:54.147+0200 to 2018-10-16T13:28:54.150+0200
+2018-10-16 13:29:54.159 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:28:54.150+0200 to 2018-10-16T13:29:54.152+0200
+2018-10-16 13:29:54.162 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:28:54.150+0200 to 2018-10-16T13:29:54.152+0200
+2018-10-16 13:30:54.164 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:29:54.152+0200 to 2018-10-16T13:30:54.155+0200
+2018-10-16 13:30:54.166 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:29:54.152+0200 to 2018-10-16T13:30:54.155+0200
+2018-10-16 13:31:54.159 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:30:54.155+0200 to 2018-10-16T13:31:54.157+0200
+2018-10-16 13:31:54.159 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:30:54.155+0200 to 2018-10-16T13:31:54.157+0200
+2018-10-16 13:32:54.173 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:31:54.157+0200 to 2018-10-16T13:32:54.157+0200
+2018-10-16 13:32:54.179 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:31:54.157+0200 to 2018-10-16T13:32:54.157+0200
+2018-10-16 13:33:54.169 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:32:54.157+0200 to 2018-10-16T13:33:54.159+0200
+2018-10-16 13:33:54.172 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:32:54.157+0200 to 2018-10-16T13:33:54.159+0200
+2018-10-16 13:34:54.163 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:33:54.159+0200 to 2018-10-16T13:34:54.161+0200
+2018-10-16 13:34:54.164 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:33:54.159+0200 to 2018-10-16T13:34:54.161+0200
+2018-10-16 13:35:54.168 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:34:54.161+0200 to 2018-10-16T13:35:54.162+0200
+2018-10-16 13:35:54.171 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:34:54.161+0200 to 2018-10-16T13:35:54.162+0200
+2018-10-16 13:36:54.170 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:35:54.162+0200 to 2018-10-16T13:36:54.164+0200
+2018-10-16 13:36:54.172 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:35:54.162+0200 to 2018-10-16T13:36:54.164+0200
+2018-10-16 13:37:54.173 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:36:54.164+0200 to 2018-10-16T13:37:54.166+0200
+2018-10-16 13:37:54.177 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:36:54.164+0200 to 2018-10-16T13:37:54.166+0200
+2018-10-16 13:38:54.174 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:37:54.166+0200 to 2018-10-16T13:38:54.168+0200
+2018-10-16 13:38:54.177 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:37:54.166+0200 to 2018-10-16T13:38:54.168+0200
+2018-10-16 13:39:54.176 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:38:54.168+0200 to 2018-10-16T13:39:54.170+0200
+2018-10-16 13:39:54.180 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:38:54.168+0200 to 2018-10-16T13:39:54.170+0200
+2018-10-16 13:40:54.178 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:39:54.170+0200 to 2018-10-16T13:40:54.172+0200
+2018-10-16 13:40:54.181 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:39:54.170+0200 to 2018-10-16T13:40:54.172+0200
+2018-10-16 13:41:54.182 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:40:54.172+0200 to 2018-10-16T13:41:54.174+0200
+2018-10-16 13:41:54.186 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:40:54.172+0200 to 2018-10-16T13:41:54.174+0200
+2018-10-16 13:43:31.687 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:41:54.174+0200 to 2018-10-16T13:43:31.681+0200
+2018-10-16 13:43:31.688 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:41:54.174+0200 to 2018-10-16T13:43:31.681+0200
+2018-10-16 13:44:31.698 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T13:43:31.681+0200 to 2018-10-16T13:44:31.683+0200
+2018-10-16 13:44:31.701 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T13:43:31.681+0200 to 2018-10-16T13:44:31.683+0200
+2018-10-16 18:57:13.934 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 18:57:13.935 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-16 18:57:15.347 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 760
+2018-10-16 18:57:15.362 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 26.4
+2018-10-16 18:57:15.363 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 34.9
+2018-10-16 18:57:15.412 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-16 18:57:15.485 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-16 18:57:15.506 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-16T18:57:15.482+0200
+2018-10-16 18:57:15.508 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-16T18:57:15.482+0200
+2018-10-16 18:57:15.516 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T18:57:15.482+0200 to 2018-10-16T18:57:15.503+0200
+2018-10-16 18:57:15.517 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T18:57:15.482+0200 to 2018-10-16T18:57:15.503+0200
+2018-10-16 18:58:15.529 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T18:57:15.503+0200 to 2018-10-16T18:58:15.503+0200
+2018-10-16 18:58:15.544 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T18:57:15.503+0200 to 2018-10-16T18:58:15.503+0200
+2018-10-16 18:59:15.527 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T18:58:15.503+0200 to 2018-10-16T18:59:15.507+0200
+2018-10-16 18:59:15.532 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T18:58:15.503+0200 to 2018-10-16T18:59:15.507+0200
+2018-10-16 18:59:26.574 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.9 to 35.4
+2018-10-16 19:00:15.520 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T18:59:15.507+0200 to 2018-10-16T19:00:15.511+0200
+2018-10-16 19:00:15.521 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T18:59:15.507+0200 to 2018-10-16T19:00:15.511+0200
+2018-10-16 19:00:57.478 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 760 to 780
+2018-10-16 19:01:15.533 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:00:15.511+0200 to 2018-10-16T19:01:15.515+0200
+2018-10-16 19:01:15.540 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:00:15.511+0200 to 2018-10-16T19:01:15.515+0200
+2018-10-16 19:01:20.899 [thome.event.ExtensionEvent] - Extension 'binding-http1' has been installed.
+2018-10-16 19:02:15.529 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:01:15.515+0200 to 2018-10-16T19:02:15.519+0200
+2018-10-16 19:02:15.531 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:01:15.515+0200 to 2018-10-16T19:02:15.519+0200
+2018-10-16 19:02:53.702 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 780 to 800
+2018-10-16 19:03:15.538 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:02:15.519+0200 to 2018-10-16T19:03:15.523+0200
+2018-10-16 19:03:15.543 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:02:15.519+0200 to 2018-10-16T19:03:15.523+0200
+2018-10-16 19:04:15.536 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:03:15.523+0200 to 2018-10-16T19:04:15.527+0200
+2018-10-16 19:04:15.537 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:03:15.523+0200 to 2018-10-16T19:04:15.527+0200
+2018-10-16 19:04:41.566 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:05:15.540 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:04:15.527+0200 to 2018-10-16T19:05:15.529+0200
+2018-10-16 19:05:15.542 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:04:15.527+0200 to 2018-10-16T19:05:15.529+0200
+2018-10-16 19:05:37.819 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:06:15.544 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:05:15.529+0200 to 2018-10-16T19:06:15.532+0200
+2018-10-16 19:06:15.545 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:05:15.529+0200 to 2018-10-16T19:06:15.532+0200
+2018-10-16 19:06:19.073 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:07:15.555 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:06:15.532+0200 to 2018-10-16T19:07:15.534+0200
+2018-10-16 19:07:15.558 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:06:15.532+0200 to 2018-10-16T19:07:15.534+0200
+2018-10-16 19:07:24.583 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.4 to 26.3
+2018-10-16 19:07:41.400 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:07:53.031 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:08:15.555 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:07:15.534+0200 to 2018-10-16T19:08:15.537+0200
+2018-10-16 19:08:15.559 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:07:15.534+0200 to 2018-10-16T19:08:15.537+0200
+2018-10-16 19:08:15.622 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:09:15.549 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:08:15.537+0200 to 2018-10-16T19:09:15.540+0200
+2018-10-16 19:09:15.549 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:08:15.537+0200 to 2018-10-16T19:09:15.540+0200
+2018-10-16 19:10:15.550 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:09:15.540+0200 to 2018-10-16T19:10:15.543+0200
+2018-10-16 19:10:15.554 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:09:15.540+0200 to 2018-10-16T19:10:15.543+0200
+2018-10-16 19:10:53.883 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:11:02.556 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:11:15.555 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:10:15.543+0200 to 2018-10-16T19:11:15.545+0200
+2018-10-16 19:11:15.559 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:10:15.543+0200 to 2018-10-16T19:11:15.545+0200
+2018-10-16 19:12:13.520 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:12:15.566 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:11:15.545+0200 to 2018-10-16T19:12:15.547+0200
+2018-10-16 19:12:15.573 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:11:15.545+0200 to 2018-10-16T19:12:15.547+0200
+2018-10-16 19:13:01.869 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:13:15.560 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:12:15.547+0200 to 2018-10-16T19:13:15.550+0200
+2018-10-16 19:13:15.560 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:12:15.547+0200 to 2018-10-16T19:13:15.550+0200
+2018-10-16 19:14:15.562 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:13:15.550+0200 to 2018-10-16T19:14:15.553+0200
+2018-10-16 19:14:15.565 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:13:15.550+0200 to 2018-10-16T19:14:15.553+0200
+2018-10-16 19:14:27.604 [vent.ItemStateChangedEvent] - HumidMqtt changed from 35.4 to 36.1
+2018-10-16 19:15:15.563 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:14:15.553+0200 to 2018-10-16T19:15:15.555+0200
+2018-10-16 19:15:15.564 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:14:15.553+0200 to 2018-10-16T19:15:15.555+0200
+2018-10-16 19:15:59.431 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:16:15.565 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:15:15.555+0200 to 2018-10-16T19:16:15.556+0200
+2018-10-16 19:16:15.569 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:15:15.555+0200 to 2018-10-16T19:16:15.556+0200
+2018-10-16 19:17:13.661 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-16 19:17:14.073 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:17:15.567 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:16:15.556+0200 to 2018-10-16T19:17:15.558+0200
+2018-10-16 19:17:15.570 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:16:15.556+0200 to 2018-10-16T19:17:15.558+0200
+2018-10-16 19:17:19.690 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-16 19:17:20.498 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:17:22.811 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-16 19:17:23.648 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:17:37.480 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to null
+2018-10-16 19:17:53.583 [vent.ItemStateChangedEvent] - AvgCo2Week changed from null to 
+2018-10-16 19:17:54.559 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 800 to 785
+2018-10-16 19:18:15.570 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:17:15.558+0200 to 2018-10-16T19:18:15.560+0200
+2018-10-16 19:18:15.572 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:17:15.558+0200 to 2018-10-16T19:18:15.560+0200
+2018-10-16 19:18:26.335 [vent.ItemStateChangedEvent] - AvgCo2Week changed from  to {"averagefordays":[{"date":"2018-10-11","value":590.80975}]}
+2018-10-16 19:19:15.566 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:18:15.560+0200 to 2018-10-16T19:19:15.563+0200
+2018-10-16 19:19:15.567 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:18:15.560+0200 to 2018-10-16T19:19:15.563+0200
+2018-10-16 19:20:15.567 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:19:15.563+0200 to 2018-10-16T19:20:15.563+0200
+2018-10-16 19:20:15.568 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:19:15.563+0200 to 2018-10-16T19:20:15.563+0200
+2018-10-16 19:20:25.452 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {"averagefordays":[{"date":"2018-10-11","value":590.80975}]} to {date=2018-10-11, value=590.80975}
+2018-10-16 19:20:31.842 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 785 to 765
+2018-10-16 19:21:15.572 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:20:15.563+0200 to 2018-10-16T19:21:15.564+0200
+2018-10-16 19:21:15.572 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:20:15.563+0200 to 2018-10-16T19:21:15.564+0200
+2018-10-16 19:22:15.570 [vent.ItemStateChangedEvent] - Date changed from 2018-10-16T19:21:15.564+0200 to 2018-10-16T19:22:15.566+0200
+2018-10-16 19:22:15.570 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-16T19:21:15.564+0200 to 2018-10-16T19:22:15.566+0200
+2018-10-17 08:38:35.468 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-17 08:38:35.469 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-17 08:38:36.393 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 1051
+2018-10-17 08:38:36.398 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 25.1
+2018-10-17 08:38:36.399 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 39.6
+2018-10-17 08:38:36.544 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-17 08:38:36.663 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-17 08:38:36.681 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-17T08:38:36.649+0200
+2018-10-17 08:38:36.687 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-17T08:38:36.649+0200
+2018-10-17 08:38:36.688 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:38:36.649+0200 to 2018-10-17T08:38:36.674+0200
+2018-10-17 08:38:36.690 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:38:36.649+0200 to 2018-10-17T08:38:36.674+0200
+2018-10-17 08:38:36.918 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-17 08:38:55.596 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.6 to 38.7
+2018-10-17 08:39:31.258 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1051 to 1072
+2018-10-17 08:39:36.683 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:38:36.674+0200 to 2018-10-17T08:39:36.675+0200
+2018-10-17 08:39:36.684 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:38:36.674+0200 to 2018-10-17T08:39:36.675+0200
+2018-10-17 08:40:32.322 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1072 to 1094
+2018-10-17 08:40:36.689 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:39:36.675+0200 to 2018-10-17T08:40:36.676+0200
+2018-10-17 08:40:36.692 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:39:36.675+0200 to 2018-10-17T08:40:36.676+0200
+2018-10-17 08:41:27.351 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1094 to 1114
+2018-10-17 08:41:36.697 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:40:36.676+0200 to 2018-10-17T08:41:36.679+0200
+2018-10-17 08:41:36.702 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:40:36.676+0200 to 2018-10-17T08:41:36.679+0200
+2018-10-17 08:42:23.411 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1114 to 1134
+2018-10-17 08:42:36.706 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:41:36.679+0200 to 2018-10-17T08:42:36.683+0200
+2018-10-17 08:42:36.708 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:41:36.679+0200 to 2018-10-17T08:42:36.683+0200
+2018-10-17 08:42:48.440 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1134 to 1155
+2018-10-17 08:43:13.484 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1155 to 1175
+2018-10-17 08:43:36.711 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:42:36.683+0200 to 2018-10-17T08:43:36.700+0200
+2018-10-17 08:43:36.712 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:42:36.683+0200 to 2018-10-17T08:43:36.700+0200
+2018-10-17 08:44:36.720 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:43:36.700+0200 to 2018-10-17T08:44:36.703+0200
+2018-10-17 08:44:36.721 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:43:36.700+0200 to 2018-10-17T08:44:36.703+0200
+2018-10-17 08:45:10.412 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1175 to 1195
+2018-10-17 08:45:36.720 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:44:36.703+0200 to 2018-10-17T08:45:36.707+0200
+2018-10-17 08:45:36.724 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:44:36.703+0200 to 2018-10-17T08:45:36.707+0200
+2018-10-17 08:46:19.672 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1195 to 1216
+2018-10-17 08:46:36.724 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:45:36.707+0200 to 2018-10-17T08:46:36.710+0200
+2018-10-17 08:46:36.728 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:45:36.707+0200 to 2018-10-17T08:46:36.710+0200
+2018-10-17 08:47:35.794 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1216 to 1237
+2018-10-17 08:47:36.724 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:46:36.710+0200 to 2018-10-17T08:47:36.712+0200
+2018-10-17 08:47:36.725 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:46:36.710+0200 to 2018-10-17T08:47:36.712+0200
+2018-10-17 08:48:27.385 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.1 to 25.5
+2018-10-17 08:48:36.730 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:47:36.712+0200 to 2018-10-17T08:48:36.716+0200
+2018-10-17 08:48:36.733 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:47:36.712+0200 to 2018-10-17T08:48:36.716+0200
+2018-10-17 08:49:15.865 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1237 to 1257
+2018-10-17 08:49:36.729 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:48:36.716+0200 to 2018-10-17T08:49:36.718+0200
+2018-10-17 08:49:36.730 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:48:36.716+0200 to 2018-10-17T08:49:36.718+0200
+2018-10-17 08:49:46.917 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1257 to 1278
+2018-10-17 08:50:36.731 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:49:36.718+0200 to 2018-10-17T08:50:36.721+0200
+2018-10-17 08:50:36.732 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:49:36.718+0200 to 2018-10-17T08:50:36.721+0200
+2018-10-17 08:51:07.017 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1278 to 1298
+2018-10-17 08:51:36.734 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:50:36.721+0200 to 2018-10-17T08:51:36.724+0200
+2018-10-17 08:51:36.735 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:50:36.721+0200 to 2018-10-17T08:51:36.724+0200
+2018-10-17 08:52:36.738 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:51:36.724+0200 to 2018-10-17T08:52:36.726+0200
+2018-10-17 08:52:36.743 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:51:36.724+0200 to 2018-10-17T08:52:36.726+0200
+2018-10-17 08:53:36.742 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:52:36.726+0200 to 2018-10-17T08:53:36.729+0200
+2018-10-17 08:53:36.745 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:52:36.726+0200 to 2018-10-17T08:53:36.729+0200
+2018-10-17 08:53:56.645 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 40.5
+2018-10-17 08:54:14.187 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1298 to 1318
+2018-10-17 08:54:36.743 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:53:36.729+0200 to 2018-10-17T08:54:36.731+0200
+2018-10-17 08:54:36.746 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:53:36.729+0200 to 2018-10-17T08:54:36.731+0200
+2018-10-17 08:55:36.749 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:54:36.731+0200 to 2018-10-17T08:55:36.734+0200
+2018-10-17 08:55:36.753 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:54:36.731+0200 to 2018-10-17T08:55:36.734+0200
+2018-10-17 08:56:36.746 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:55:36.734+0200 to 2018-10-17T08:56:36.736+0200
+2018-10-17 08:56:36.747 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:55:36.734+0200 to 2018-10-17T08:56:36.736+0200
+2018-10-17 08:57:10.374 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1318 to 1339
+2018-10-17 08:57:36.744 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:56:36.736+0200 to 2018-10-17T08:57:36.738+0200
+2018-10-17 08:57:36.744 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:56:36.736+0200 to 2018-10-17T08:57:36.738+0200
+2018-10-17 08:58:36.750 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:57:36.738+0200 to 2018-10-17T08:58:36.739+0200
+2018-10-17 08:58:36.751 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:57:36.738+0200 to 2018-10-17T08:58:36.739+0200
+2018-10-17 08:59:06.516 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1339 to 1362
+2018-10-17 08:59:36.539 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1362 to 1382
+2018-10-17 08:59:36.754 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:58:36.739+0200 to 2018-10-17T08:59:36.741+0200
+2018-10-17 08:59:36.756 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:58:36.739+0200 to 2018-10-17T08:59:36.741+0200
+2018-10-17 09:00:36.752 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T08:59:36.741+0200 to 2018-10-17T09:00:36.744+0200
+2018-10-17 09:00:36.753 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T08:59:36.741+0200 to 2018-10-17T09:00:36.744+0200
+2018-10-17 09:01:36.760 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:00:36.744+0200 to 2018-10-17T09:01:36.745+0200
+2018-10-17 09:01:36.767 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:00:36.744+0200 to 2018-10-17T09:01:36.745+0200
+2018-10-17 09:02:29.318 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.5 to 25.9
+2018-10-17 09:02:36.758 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:01:36.745+0200 to 2018-10-17T09:02:36.748+0200
+2018-10-17 09:02:36.758 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:01:36.745+0200 to 2018-10-17T09:02:36.748+0200
+2018-10-17 09:02:42.754 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1382 to 1402
+2018-10-17 09:03:36.763 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:02:36.748+0200 to 2018-10-17T09:03:36.750+0200
+2018-10-17 09:03:36.765 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:02:36.748+0200 to 2018-10-17T09:03:36.750+0200
+2018-10-17 09:04:13.830 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1402 to 1424
+2018-10-17 09:04:36.766 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:03:36.750+0200 to 2018-10-17T09:04:36.753+0200
+2018-10-17 09:04:36.768 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:03:36.750+0200 to 2018-10-17T09:04:36.753+0200
+2018-10-17 09:04:53.881 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1424 to 1444
+2018-10-17 09:05:18.899 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1444 to 1465
+2018-10-17 09:05:36.765 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:04:36.753+0200 to 2018-10-17T09:05:36.756+0200
+2018-10-17 09:05:36.766 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:04:36.753+0200 to 2018-10-17T09:05:36.756+0200
+2018-10-17 09:06:14.962 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1465 to 1486
+2018-10-17 09:06:36.772 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:05:36.756+0200 to 2018-10-17T09:06:36.758+0200
+2018-10-17 09:06:36.776 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:05:36.756+0200 to 2018-10-17T09:06:36.758+0200
+2018-10-17 09:07:30.045 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1486 to 1508
+2018-10-17 09:07:36.767 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:06:36.758+0200 to 2018-10-17T09:07:36.760+0200
+2018-10-17 09:07:36.767 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:06:36.758+0200 to 2018-10-17T09:07:36.760+0200
+2018-10-17 09:08:36.817 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:07:36.760+0200 to 2018-10-17T09:08:36.811+0200
+2018-10-17 09:08:36.818 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:07:36.760+0200 to 2018-10-17T09:08:36.811+0200
+2018-10-17 09:08:58.761 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.5 to 41.5
+2018-10-17 09:09:36.821 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:08:36.811+0200 to 2018-10-17T09:09:36.813+0200
+2018-10-17 09:09:36.822 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:08:36.811+0200 to 2018-10-17T09:09:36.813+0200
+2018-10-17 09:10:36.824 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:09:36.813+0200 to 2018-10-17T09:10:36.816+0200
+2018-10-17 09:10:36.829 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:09:36.813+0200 to 2018-10-17T09:10:36.816+0200
+2018-10-17 09:11:36.825 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:10:36.816+0200 to 2018-10-17T09:11:36.818+0200
+2018-10-17 09:11:36.828 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:10:36.816+0200 to 2018-10-17T09:11:36.818+0200
+2018-10-17 09:11:57.340 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1508 to 1530
+2018-10-17 09:12:32.376 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1530 to 1551
+2018-10-17 09:12:36.828 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:11:36.818+0200 to 2018-10-17T09:12:36.820+0200
+2018-10-17 09:12:36.830 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:11:36.818+0200 to 2018-10-17T09:12:36.820+0200
+2018-10-17 09:13:15.138 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.9 to 26.2
+2018-10-17 09:13:36.830 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:12:36.820+0200 to 2018-10-17T09:13:36.822+0200
+2018-10-17 09:13:36.833 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:12:36.820+0200 to 2018-10-17T09:13:36.822+0200
+2018-10-17 09:13:48.830 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1551 to 1572
+2018-10-17 09:14:29.493 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1572 to 1594
+2018-10-17 09:14:36.831 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:13:36.822+0200 to 2018-10-17T09:14:36.825+0200
+2018-10-17 09:14:36.833 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:13:36.822+0200 to 2018-10-17T09:14:36.825+0200
+2018-10-17 09:15:03.905 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1594 to 1614
+2018-10-17 09:15:36.835 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:14:36.825+0200 to 2018-10-17T09:15:36.827+0200
+2018-10-17 09:15:36.837 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:14:36.825+0200 to 2018-10-17T09:15:36.827+0200
+2018-10-17 09:16:05.003 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1614 to 1635
+2018-10-17 09:16:36.837 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:15:36.827+0200 to 2018-10-17T09:16:36.829+0200
+2018-10-17 09:16:36.840 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:15:36.827+0200 to 2018-10-17T09:16:36.829+0200
+2018-10-17 09:16:45.015 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1635 to 1655
+2018-10-17 09:17:36.834 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:16:36.829+0200 to 2018-10-17T09:17:36.832+0200
+2018-10-17 09:17:36.835 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:16:36.829+0200 to 2018-10-17T09:17:36.832+0200
+2018-10-17 09:18:00.110 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1655 to 1675
+2018-10-17 09:18:36.839 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:17:36.832+0200 to 2018-10-17T09:18:36.833+0200
+2018-10-17 09:18:36.841 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:17:36.832+0200 to 2018-10-17T09:18:36.833+0200
+2018-10-17 09:19:06.185 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1675 to 1697
+2018-10-17 09:19:36.331 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1697 to 1718
+2018-10-17 09:19:36.843 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:18:36.833+0200 to 2018-10-17T09:19:36.835+0200
+2018-10-17 09:19:36.846 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:18:36.833+0200 to 2018-10-17T09:19:36.835+0200
+2018-10-17 09:20:36.843 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:19:36.835+0200 to 2018-10-17T09:20:36.836+0200
+2018-10-17 09:20:36.847 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:19:36.835+0200 to 2018-10-17T09:20:36.836+0200
+2018-10-17 09:20:52.291 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1718 to 1742
+2018-10-17 09:21:36.841 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:20:36.836+0200 to 2018-10-17T09:21:36.838+0200
+2018-10-17 09:21:36.842 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:20:36.836+0200 to 2018-10-17T09:21:36.838+0200
+2018-10-17 09:21:37.458 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1742 to 1763
+2018-10-17 09:22:36.845 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:21:36.838+0200 to 2018-10-17T09:22:36.839+0200
+2018-10-17 09:22:36.846 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:21:36.838+0200 to 2018-10-17T09:22:36.839+0200
+2018-10-17 09:22:37.410 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1763 to 1738
+2018-10-17 09:23:36.848 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:22:36.839+0200 to 2018-10-17T09:23:36.840+0200
+2018-10-17 09:23:36.851 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:22:36.839+0200 to 2018-10-17T09:23:36.840+0200
+2018-10-17 09:23:48.465 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1738 to 1759
+2018-10-17 09:24:36.850 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:23:36.840+0200 to 2018-10-17T09:24:36.842+0200
+2018-10-17 09:24:36.851 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:23:36.840+0200 to 2018-10-17T09:24:36.842+0200
+2018-10-17 09:25:24.587 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1759 to 1780
+2018-10-17 09:25:36.851 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:24:36.842+0200 to 2018-10-17T09:25:36.844+0200
+2018-10-17 09:25:36.853 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:24:36.842+0200 to 2018-10-17T09:25:36.844+0200
+2018-10-17 09:26:36.853 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:25:36.844+0200 to 2018-10-17T09:26:36.847+0200
+2018-10-17 09:26:36.854 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:25:36.844+0200 to 2018-10-17T09:26:36.847+0200
+2018-10-17 09:27:24.705 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1780 to 1800
+2018-10-17 09:27:36.856 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:26:36.847+0200 to 2018-10-17T09:27:36.849+0200
+2018-10-17 09:27:36.859 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:26:36.847+0200 to 2018-10-17T09:27:36.849+0200
+2018-10-17 09:28:15.662 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.2 to 26.5
+2018-10-17 09:28:36.857 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:27:36.849+0200 to 2018-10-17T09:28:36.851+0200
+2018-10-17 09:28:36.858 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:27:36.849+0200 to 2018-10-17T09:28:36.851+0200
+2018-10-17 09:29:36.860 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:28:36.851+0200 to 2018-10-17T09:29:36.853+0200
+2018-10-17 09:29:36.861 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:28:36.851+0200 to 2018-10-17T09:29:36.853+0200
+2018-10-17 09:30:36.863 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:29:36.853+0200 to 2018-10-17T09:30:36.854+0200
+2018-10-17 09:30:36.865 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:29:36.853+0200 to 2018-10-17T09:30:36.854+0200
+2018-10-17 09:31:36.863 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:30:36.854+0200 to 2018-10-17T09:31:36.856+0200
+2018-10-17 09:31:36.863 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:30:36.854+0200 to 2018-10-17T09:31:36.856+0200
+2018-10-17 09:32:18.017 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1800 to 1820
+2018-10-17 09:32:36.862 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:31:36.856+0200 to 2018-10-17T09:32:36.858+0200
+2018-10-17 09:32:36.863 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:31:36.856+0200 to 2018-10-17T09:32:36.858+0200
+2018-10-17 09:33:18.085 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1820 to 1840
+2018-10-17 09:33:36.866 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:32:36.858+0200 to 2018-10-17T09:33:36.859+0200
+2018-10-17 09:33:36.868 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:32:36.858+0200 to 2018-10-17T09:33:36.859+0200
+2018-10-17 09:33:58.128 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1840 to 1860
+2018-10-17 09:34:36.868 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:33:36.859+0200 to 2018-10-17T09:34:36.861+0200
+2018-10-17 09:34:36.872 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:33:36.859+0200 to 2018-10-17T09:34:36.861+0200
+2018-10-17 09:35:36.867 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:34:36.861+0200 to 2018-10-17T09:35:36.863+0200
+2018-10-17 09:35:36.868 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:34:36.861+0200 to 2018-10-17T09:35:36.863+0200
+2018-10-17 09:35:39.263 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1860 to 1883
+2018-10-17 09:36:36.871 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:35:36.863+0200 to 2018-10-17T09:36:36.864+0200
+2018-10-17 09:36:36.873 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:35:36.863+0200 to 2018-10-17T09:36:36.864+0200
+2018-10-17 09:37:36.870 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:36:36.864+0200 to 2018-10-17T09:37:36.866+0200
+2018-10-17 09:37:36.872 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:36:36.864+0200 to 2018-10-17T09:37:36.866+0200
+2018-10-17 09:38:35.436 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1883 to 1905
+2018-10-17 09:38:36.875 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:37:36.866+0200 to 2018-10-17T09:38:36.867+0200
+2018-10-17 09:38:36.878 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:37:36.866+0200 to 2018-10-17T09:38:36.867+0200
+2018-10-17 09:38:59.648 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.5 to 41.8
+2018-10-17 09:39:36.892 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:38:36.867+0200 to 2018-10-17T09:39:36.886+0200
+2018-10-17 09:39:36.893 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:38:36.867+0200 to 2018-10-17T09:39:36.886+0200
+2018-10-17 09:40:11.552 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1905 to 1883
+2018-10-17 09:40:36.892 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:39:36.886+0200 to 2018-10-17T09:40:36.887+0200
+2018-10-17 09:40:36.894 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:39:36.886+0200 to 2018-10-17T09:40:36.887+0200
+2018-10-17 09:40:38.400 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.8 to 39.5
+2018-10-17 09:40:41.616 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1883 to 1861
+2018-10-17 09:40:51.586 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1861 to 1758
+2018-10-17 09:40:56.591 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1758 to 1581
+2018-10-17 09:41:01.594 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1581 to 1333
+2018-10-17 09:41:02.087 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.5 to 26
+2018-10-17 09:41:06.600 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1333 to 1163
+2018-10-17 09:41:11.611 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1163 to 1080
+2018-10-17 09:41:15.615 [vent.ItemStateChangedEvent] - TempMqtt changed from 26 to 25.6
+2018-10-17 09:41:25.768 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.6 to 25.3
+2018-10-17 09:41:36.897 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:40:36.887+0200 to 2018-10-17T09:41:36.888+0200
+2018-10-17 09:41:36.899 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:40:36.887+0200 to 2018-10-17T09:41:36.888+0200
+2018-10-17 09:41:39.305 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.3 to 24.9
+2018-10-17 09:41:42.640 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1080 to 1100
+2018-10-17 09:42:02.660 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1100 to 1128
+2018-10-17 09:42:12.670 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1128 to 1148
+2018-10-17 09:42:27.686 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1148 to 1169
+2018-10-17 09:42:36.898 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:41:36.888+0200 to 2018-10-17T09:42:36.890+0200
+2018-10-17 09:42:36.900 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:41:36.888+0200 to 2018-10-17T09:42:36.890+0200
+2018-10-17 09:42:47.712 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1169 to 1190
+2018-10-17 09:43:02.724 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1190 to 1218
+2018-10-17 09:43:03.851 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.9 to 24.5
+2018-10-17 09:43:36.902 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:42:36.890+0200 to 2018-10-17T09:43:36.892+0200
+2018-10-17 09:43:36.905 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:42:36.890+0200 to 2018-10-17T09:43:36.892+0200
+2018-10-17 09:43:37.688 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.5 to 24.1
+2018-10-17 09:43:51.203 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.1 to 23.8
+2018-10-17 09:43:52.787 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1218 to 1191
+2018-10-17 09:44:03.790 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1191 to 1164
+2018-10-17 09:44:18.802 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1164 to 1134
+2018-10-17 09:44:21.660 [vent.ItemStateChangedEvent] - TempMqtt changed from 23.8 to 23.3
+2018-10-17 09:44:23.809 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1134 to 1114
+2018-10-17 09:44:33.821 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1114 to 1082
+2018-10-17 09:44:36.906 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:43:36.892+0200 to 2018-10-17T09:44:36.894+0200
+2018-10-17 09:44:36.911 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:43:36.892+0200 to 2018-10-17T09:44:36.894+0200
+2018-10-17 09:44:43.833 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1082 to 1061
+2018-10-17 09:44:58.892 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1061 to 1035
+2018-10-17 09:45:33.917 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1035 to 1014
+2018-10-17 09:45:36.902 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:44:36.894+0200 to 2018-10-17T09:45:36.896+0200
+2018-10-17 09:45:36.903 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:44:36.894+0200 to 2018-10-17T09:45:36.896+0200
+2018-10-17 09:45:53.943 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1014 to 994
+2018-10-17 09:46:03.109 [vent.ItemStateChangedEvent] - TempMqtt changed from 23.3 to 23.6
+2018-10-17 09:46:14.638 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 994 to 974
+2018-10-17 09:46:36.904 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:45:36.896+0200 to 2018-10-17T09:46:36.897+0200
+2018-10-17 09:46:36.908 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:45:36.896+0200 to 2018-10-17T09:46:36.897+0200
+2018-10-17 09:46:44.992 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 974 to 951
+2018-10-17 09:47:05.086 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 951 to 931
+2018-10-17 09:47:35.089 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 931 to 909
+2018-10-17 09:47:36.907 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:46:36.897+0200 to 2018-10-17T09:47:36.899+0200
+2018-10-17 09:47:36.910 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:46:36.897+0200 to 2018-10-17T09:47:36.899+0200
+2018-10-17 09:48:00.136 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 909 to 886
+2018-10-17 09:48:25.803 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 886 to 862
+2018-10-17 09:48:36.907 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:47:36.899+0200 to 2018-10-17T09:48:36.901+0200
+2018-10-17 09:48:36.910 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:47:36.899+0200 to 2018-10-17T09:48:36.901+0200
+2018-10-17 09:48:45.105 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 862 to 839
+2018-10-17 09:49:05.124 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 839 to 817
+2018-10-17 09:49:36.909 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:48:36.901+0200 to 2018-10-17T09:49:36.902+0200
+2018-10-17 09:49:36.911 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:48:36.901+0200 to 2018-10-17T09:49:36.902+0200
+2018-10-17 09:49:56.242 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 817 to 797
+2018-10-17 09:50:36.911 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:49:36.902+0200 to 2018-10-17T09:50:36.904+0200
+2018-10-17 09:50:36.913 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:49:36.902+0200 to 2018-10-17T09:50:36.904+0200
+2018-10-17 09:50:41.224 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 797 to 776
+2018-10-17 09:51:36.912 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:50:36.904+0200 to 2018-10-17T09:51:36.906+0200
+2018-10-17 09:51:36.915 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:50:36.904+0200 to 2018-10-17T09:51:36.906+0200
+2018-10-17 09:52:36.914 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:51:36.906+0200 to 2018-10-17T09:52:36.908+0200
+2018-10-17 09:52:36.917 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:51:36.906+0200 to 2018-10-17T09:52:36.908+0200
+2018-10-17 09:53:12.418 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 776 to 753
+2018-10-17 09:53:36.924 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:52:36.908+0200 to 2018-10-17T09:53:36.910+0200
+2018-10-17 09:53:36.926 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:52:36.908+0200 to 2018-10-17T09:53:36.910+0200
+2018-10-17 09:54:07.447 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 753 to 733
+2018-10-17 09:54:36.917 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:53:36.910+0200 to 2018-10-17T09:54:36.911+0200
+2018-10-17 09:54:36.919 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:53:36.910+0200 to 2018-10-17T09:54:36.911+0200
+2018-10-17 09:55:36.921 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:54:36.911+0200 to 2018-10-17T09:55:36.913+0200
+2018-10-17 09:55:36.923 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:54:36.911+0200 to 2018-10-17T09:55:36.913+0200
+2018-10-17 09:55:38.681 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.5 to 39.8
+2018-10-17 09:56:36.923 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:55:36.913+0200 to 2018-10-17T09:56:36.915+0200
+2018-10-17 09:56:36.926 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:55:36.913+0200 to 2018-10-17T09:56:36.915+0200
+2018-10-17 09:57:36.923 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:56:36.915+0200 to 2018-10-17T09:57:36.916+0200
+2018-10-17 09:57:36.924 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:56:36.915+0200 to 2018-10-17T09:57:36.916+0200
+2018-10-17 09:58:34.734 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 733 to 711
+2018-10-17 09:58:36.926 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:57:36.916+0200 to 2018-10-17T09:58:36.918+0200
+2018-10-17 09:58:36.928 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:57:36.916+0200 to 2018-10-17T09:58:36.918+0200
+2018-10-17 09:59:36.926 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-17T09:58:36.918+0200 to 2018-10-17T09:59:36.920+0200
+2018-10-17 09:59:36.928 [vent.ItemStateChangedEvent] - Date changed from 2018-10-17T09:58:36.918+0200 to 2018-10-17T09:59:36.920+0200
+2018-10-18 08:23:49.181 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 08:23:49.182 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 08:23:50.952 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 910
+2018-10-18 08:23:50.964 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 24.7
+2018-10-18 08:23:51.027 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 36.2
+2018-10-18 08:23:51.031 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-18 08:23:51.084 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-18 08:23:51.110 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-18T08:23:51.081+0200
+2018-10-18 08:23:51.110 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-18T08:23:51.081+0200
+2018-10-18 08:23:51.127 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:23:51.081+0200 to 2018-10-18T08:23:51.109+0200
+2018-10-18 08:23:51.128 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:23:51.081+0200 to 2018-10-18T08:23:51.109+0200
+2018-10-18 08:23:51.161 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 08:24:51.113 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:23:51.109+0200 to 2018-10-18T08:24:51.102+0200
+2018-10-18 08:24:51.114 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:23:51.109+0200 to 2018-10-18T08:24:51.102+0200
+2018-10-18 08:25:26.720 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 910 to 890
+2018-10-18 08:25:51.122 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:24:51.102+0200 to 2018-10-18T08:25:51.107+0200
+2018-10-18 08:25:51.126 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:24:51.102+0200 to 2018-10-18T08:25:51.107+0200
+2018-10-18 08:26:44.166 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-18 08:26:44.780 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 08:26:51.123 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:25:51.107+0200 to 2018-10-18T08:26:51.111+0200
+2018-10-18 08:26:51.126 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:25:51.107+0200 to 2018-10-18T08:26:51.111+0200
+2018-10-18 08:27:06.183 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-18 08:27:06.977 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 08:27:11.836 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 890 to 869
+2018-10-18 08:27:13.558 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-18 08:27:15.049 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 08:27:24.212 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.7 to 22.8
+2018-10-18 08:27:27.610 [vent.ItemStateChangedEvent] - TempMqtt changed from 22.8 to 24.6
+2018-10-18 08:27:51.135 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:26:51.111+0200 to 2018-10-18T08:27:51.115+0200
+2018-10-18 08:27:51.140 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:26:51.111+0200 to 2018-10-18T08:27:51.115+0200
+2018-10-18 08:28:32.926 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 869 to 849
+2018-10-18 08:28:51.128 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:27:51.115+0200 to 2018-10-18T08:28:51.119+0200
+2018-10-18 08:28:51.129 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:27:51.115+0200 to 2018-10-18T08:28:51.119+0200
+2018-10-18 08:29:51.132 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:28:51.119+0200 to 2018-10-18T08:29:51.123+0200
+2018-10-18 08:29:51.132 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:28:51.119+0200 to 2018-10-18T08:29:51.123+0200
+2018-10-18 08:30:51.135 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:29:51.123+0200 to 2018-10-18T08:30:51.125+0200
+2018-10-18 08:30:51.135 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:29:51.123+0200 to 2018-10-18T08:30:51.125+0200
+2018-10-18 08:31:29.113 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 849 to 828
+2018-10-18 08:31:51.133 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:30:51.125+0200 to 2018-10-18T08:31:51.127+0200
+2018-10-18 08:31:51.134 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:30:51.125+0200 to 2018-10-18T08:31:51.127+0200
+2018-10-18 08:32:14.161 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 828 to 808
+2018-10-18 08:32:51.140 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:31:51.127+0200 to 2018-10-18T08:32:51.128+0200
+2018-10-18 08:32:51.145 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:31:51.127+0200 to 2018-10-18T08:32:51.128+0200
+2018-10-18 08:33:51.143 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:32:51.128+0200 to 2018-10-18T08:33:51.130+0200
+2018-10-18 08:33:51.147 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:32:51.128+0200 to 2018-10-18T08:33:51.130+0200
+2018-10-18 08:34:51.150 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:33:51.130+0200 to 2018-10-18T08:34:51.133+0200
+2018-10-18 08:34:51.154 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:33:51.130+0200 to 2018-10-18T08:34:51.133+0200
+2018-10-18 08:35:51.146 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:34:51.133+0200 to 2018-10-18T08:35:51.136+0200
+2018-10-18 08:35:51.153 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:34:51.133+0200 to 2018-10-18T08:35:51.136+0200
+2018-10-18 08:36:51.145 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:35:51.136+0200 to 2018-10-18T08:36:51.138+0200
+2018-10-18 08:36:51.147 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:35:51.136+0200 to 2018-10-18T08:36:51.138+0200
+2018-10-18 08:37:51.143 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:36:51.138+0200 to 2018-10-18T08:37:51.140+0200
+2018-10-18 08:37:51.144 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:36:51.138+0200 to 2018-10-18T08:37:51.140+0200
+2018-10-18 08:38:51.153 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:37:51.140+0200 to 2018-10-18T08:38:51.140+0200
+2018-10-18 08:38:51.155 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:37:51.140+0200 to 2018-10-18T08:38:51.140+0200
+2018-10-18 08:39:51.153 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:38:51.140+0200 to 2018-10-18T08:39:51.143+0200
+2018-10-18 08:39:51.157 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:38:51.140+0200 to 2018-10-18T08:39:51.143+0200
+2018-10-18 08:40:51.154 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:39:51.143+0200 to 2018-10-18T08:40:51.145+0200
+2018-10-18 08:40:51.163 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:39:51.143+0200 to 2018-10-18T08:40:51.145+0200
+2018-10-18 08:41:51.153 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:40:51.145+0200 to 2018-10-18T08:41:51.147+0200
+2018-10-18 08:41:51.154 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:40:51.145+0200 to 2018-10-18T08:41:51.147+0200
+2018-10-18 08:42:51.156 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:41:51.147+0200 to 2018-10-18T08:42:51.148+0200
+2018-10-18 08:42:51.158 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:41:51.147+0200 to 2018-10-18T08:42:51.148+0200
+2018-10-18 08:43:51.154 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:42:51.148+0200 to 2018-10-18T08:43:51.150+0200
+2018-10-18 08:43:51.154 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:42:51.148+0200 to 2018-10-18T08:43:51.150+0200
+2018-10-18 08:44:51.159 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:43:51.150+0200 to 2018-10-18T08:44:51.151+0200
+2018-10-18 08:44:51.159 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:43:51.150+0200 to 2018-10-18T08:44:51.151+0200
+2018-10-18 08:45:51.161 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:44:51.151+0200 to 2018-10-18T08:45:51.153+0200
+2018-10-18 08:45:51.164 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:44:51.151+0200 to 2018-10-18T08:45:51.153+0200
+2018-10-18 08:46:51.163 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:45:51.153+0200 to 2018-10-18T08:46:51.155+0200
+2018-10-18 08:46:51.163 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:45:51.153+0200 to 2018-10-18T08:46:51.155+0200
+2018-10-18 08:47:51.165 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:46:51.155+0200 to 2018-10-18T08:47:51.157+0200
+2018-10-18 08:47:51.165 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:46:51.155+0200 to 2018-10-18T08:47:51.157+0200
+2018-10-18 08:48:51.166 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:47:51.157+0200 to 2018-10-18T08:48:51.159+0200
+2018-10-18 08:48:51.167 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:47:51.157+0200 to 2018-10-18T08:48:51.159+0200
+2018-10-18 08:49:51.168 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:48:51.159+0200 to 2018-10-18T08:49:51.160+0200
+2018-10-18 08:49:51.169 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:48:51.159+0200 to 2018-10-18T08:49:51.160+0200
+2018-10-18 08:50:51.170 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:49:51.160+0200 to 2018-10-18T08:50:51.162+0200
+2018-10-18 08:50:51.171 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:49:51.160+0200 to 2018-10-18T08:50:51.162+0200
+2018-10-18 08:51:51.171 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:50:51.162+0200 to 2018-10-18T08:51:51.163+0200
+2018-10-18 08:51:51.172 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:50:51.162+0200 to 2018-10-18T08:51:51.163+0200
+2018-10-18 08:52:51.169 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:51:51.163+0200 to 2018-10-18T08:52:51.165+0200
+2018-10-18 08:52:51.170 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:51:51.163+0200 to 2018-10-18T08:52:51.165+0200
+2018-10-18 08:53:51.216 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:52:51.165+0200 to 2018-10-18T08:53:51.213+0200
+2018-10-18 08:53:51.220 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:52:51.165+0200 to 2018-10-18T08:53:51.213+0200
+2018-10-18 08:54:51.219 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:53:51.213+0200 to 2018-10-18T08:54:51.213+0200
+2018-10-18 08:54:51.221 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:53:51.213+0200 to 2018-10-18T08:54:51.213+0200
+2018-10-18 08:55:51.217 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:54:51.213+0200 to 2018-10-18T08:55:51.215+0200
+2018-10-18 08:55:51.220 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:54:51.213+0200 to 2018-10-18T08:55:51.215+0200
+2018-10-18 08:56:51.223 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:55:51.215+0200 to 2018-10-18T08:56:51.216+0200
+2018-10-18 08:56:51.224 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:55:51.215+0200 to 2018-10-18T08:56:51.216+0200
+2018-10-18 08:57:51.224 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:56:51.216+0200 to 2018-10-18T08:57:51.217+0200
+2018-10-18 08:57:51.224 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:56:51.216+0200 to 2018-10-18T08:57:51.217+0200
+2018-10-18 08:58:51.227 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:57:51.217+0200 to 2018-10-18T08:58:51.219+0200
+2018-10-18 08:58:51.228 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:57:51.217+0200 to 2018-10-18T08:58:51.219+0200
+2018-10-18 08:59:51.229 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:58:51.219+0200 to 2018-10-18T08:59:51.221+0200
+2018-10-18 08:59:51.230 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:58:51.219+0200 to 2018-10-18T08:59:51.221+0200
+2018-10-18 09:00:51.231 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T08:59:51.221+0200 to 2018-10-18T09:00:51.223+0200
+2018-10-18 09:00:51.232 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T08:59:51.221+0200 to 2018-10-18T09:00:51.223+0200
+2018-10-18 09:01:51.232 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:00:51.223+0200 to 2018-10-18T09:01:51.225+0200
+2018-10-18 09:01:51.233 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:00:51.223+0200 to 2018-10-18T09:01:51.225+0200
+2018-10-18 09:02:51.230 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:01:51.225+0200 to 2018-10-18T09:02:51.227+0200
+2018-10-18 09:02:51.230 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:01:51.225+0200 to 2018-10-18T09:02:51.227+0200
+2018-10-18 09:03:51.235 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:02:51.227+0200 to 2018-10-18T09:03:51.228+0200
+2018-10-18 09:03:51.236 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:02:51.227+0200 to 2018-10-18T09:03:51.228+0200
+2018-10-18 09:04:51.236 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:03:51.228+0200 to 2018-10-18T09:04:51.230+0200
+2018-10-18 09:04:51.238 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:03:51.228+0200 to 2018-10-18T09:04:51.230+0200
+2018-10-18 09:05:51.238 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:04:51.230+0200 to 2018-10-18T09:05:51.232+0200
+2018-10-18 09:05:51.240 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:04:51.230+0200 to 2018-10-18T09:05:51.232+0200
+2018-10-18 09:06:51.241 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:05:51.232+0200 to 2018-10-18T09:06:51.233+0200
+2018-10-18 09:06:51.244 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:05:51.232+0200 to 2018-10-18T09:06:51.233+0200
+2018-10-18 09:07:51.242 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:06:51.233+0200 to 2018-10-18T09:07:51.235+0200
+2018-10-18 09:07:51.244 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:06:51.233+0200 to 2018-10-18T09:07:51.235+0200
+2018-10-18 09:08:51.244 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:07:51.235+0200 to 2018-10-18T09:08:51.237+0200
+2018-10-18 09:08:51.245 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:07:51.235+0200 to 2018-10-18T09:08:51.237+0200
+2018-10-18 09:09:51.249 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:08:51.237+0200 to 2018-10-18T09:09:51.240+0200
+2018-10-18 09:09:51.250 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:08:51.237+0200 to 2018-10-18T09:09:51.240+0200
+2018-10-18 09:10:51.248 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:09:51.240+0200 to 2018-10-18T09:10:51.242+0200
+2018-10-18 09:10:51.250 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:09:51.240+0200 to 2018-10-18T09:10:51.242+0200
+2018-10-18 09:11:51.249 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:10:51.242+0200 to 2018-10-18T09:11:51.243+0200
+2018-10-18 09:11:51.251 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:10:51.242+0200 to 2018-10-18T09:11:51.243+0200
+2018-10-18 09:12:51.256 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:11:51.243+0200 to 2018-10-18T09:12:51.245+0200
+2018-10-18 09:12:51.265 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:11:51.243+0200 to 2018-10-18T09:12:51.245+0200
+2018-10-18 09:13:51.250 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:12:51.245+0200 to 2018-10-18T09:13:51.247+0200
+2018-10-18 09:13:51.250 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:12:51.245+0200 to 2018-10-18T09:13:51.247+0200
+2018-10-18 09:14:51.252 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:13:51.247+0200 to 2018-10-18T09:14:51.247+0200
+2018-10-18 09:14:51.253 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:13:51.247+0200 to 2018-10-18T09:14:51.247+0200
+2018-10-18 09:15:51.254 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:14:51.247+0200 to 2018-10-18T09:15:51.248+0200
+2018-10-18 09:15:51.257 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:14:51.247+0200 to 2018-10-18T09:15:51.248+0200
+2018-10-18 09:16:51.257 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:15:51.248+0200 to 2018-10-18T09:16:51.250+0200
+2018-10-18 09:16:51.258 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:15:51.248+0200 to 2018-10-18T09:16:51.250+0200
+2018-10-18 09:17:51.270 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:16:51.250+0200 to 2018-10-18T09:17:51.252+0200
+2018-10-18 09:17:51.272 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:16:51.250+0200 to 2018-10-18T09:17:51.252+0200
+2018-10-18 09:18:51.260 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:17:51.252+0200 to 2018-10-18T09:18:51.254+0200
+2018-10-18 09:18:51.262 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:17:51.252+0200 to 2018-10-18T09:18:51.254+0200
+2018-10-18 09:19:51.262 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:18:51.254+0200 to 2018-10-18T09:19:51.256+0200
+2018-10-18 09:19:51.262 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:18:51.254+0200 to 2018-10-18T09:19:51.256+0200
+2018-10-18 09:20:51.264 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:19:51.256+0200 to 2018-10-18T09:20:51.257+0200
+2018-10-18 09:20:51.266 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:19:51.256+0200 to 2018-10-18T09:20:51.257+0200
+2018-10-18 09:21:51.261 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:20:51.257+0200 to 2018-10-18T09:21:51.259+0200
+2018-10-18 09:21:51.262 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:20:51.257+0200 to 2018-10-18T09:21:51.259+0200
+2018-10-18 09:22:51.267 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:21:51.259+0200 to 2018-10-18T09:22:51.260+0200
+2018-10-18 09:22:51.270 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:21:51.259+0200 to 2018-10-18T09:22:51.260+0200
+2018-10-18 09:23:51.272 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:22:51.260+0200 to 2018-10-18T09:23:51.262+0200
+2018-10-18 09:23:51.274 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:22:51.260+0200 to 2018-10-18T09:23:51.262+0200
+2018-10-18 09:24:51.318 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:23:51.262+0200 to 2018-10-18T09:24:51.313+0200
+2018-10-18 09:24:51.318 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:23:51.262+0200 to 2018-10-18T09:24:51.313+0200
+2018-10-18 09:25:51.321 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:24:51.313+0200 to 2018-10-18T09:25:51.315+0200
+2018-10-18 09:25:51.322 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:24:51.313+0200 to 2018-10-18T09:25:51.315+0200
+2018-10-18 09:26:51.322 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:25:51.315+0200 to 2018-10-18T09:26:51.317+0200
+2018-10-18 09:26:51.328 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:25:51.315+0200 to 2018-10-18T09:26:51.317+0200
+2018-10-18 09:27:51.322 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:26:51.317+0200 to 2018-10-18T09:27:51.317+0200
+2018-10-18 09:27:51.323 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:26:51.317+0200 to 2018-10-18T09:27:51.317+0200
+2018-10-18 09:28:51.325 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:27:51.317+0200 to 2018-10-18T09:28:51.319+0200
+2018-10-18 09:28:51.327 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:27:51.317+0200 to 2018-10-18T09:28:51.319+0200
+2018-10-18 09:29:51.325 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:28:51.319+0200 to 2018-10-18T09:29:51.320+0200
+2018-10-18 09:29:51.327 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:28:51.319+0200 to 2018-10-18T09:29:51.320+0200
+2018-10-18 09:30:51.331 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:29:51.320+0200 to 2018-10-18T09:30:51.322+0200
+2018-10-18 09:30:51.331 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:29:51.320+0200 to 2018-10-18T09:30:51.322+0200
+2018-10-18 09:31:51.329 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:30:51.322+0200 to 2018-10-18T09:31:51.323+0200
+2018-10-18 09:31:51.330 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:30:51.322+0200 to 2018-10-18T09:31:51.323+0200
+2018-10-18 09:32:51.331 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:31:51.323+0200 to 2018-10-18T09:32:51.325+0200
+2018-10-18 09:32:51.332 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:31:51.323+0200 to 2018-10-18T09:32:51.325+0200
+2018-10-18 09:33:51.328 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:32:51.325+0200 to 2018-10-18T09:33:51.327+0200
+2018-10-18 09:33:51.328 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:32:51.325+0200 to 2018-10-18T09:33:51.327+0200
+2018-10-18 09:34:51.332 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:33:51.327+0200 to 2018-10-18T09:34:51.327+0200
+2018-10-18 09:34:51.334 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:33:51.327+0200 to 2018-10-18T09:34:51.327+0200
+2018-10-18 09:35:51.335 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:34:51.327+0200 to 2018-10-18T09:35:51.329+0200
+2018-10-18 09:35:51.335 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:34:51.327+0200 to 2018-10-18T09:35:51.329+0200
+2018-10-18 09:36:51.337 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:35:51.329+0200 to 2018-10-18T09:36:51.331+0200
+2018-10-18 09:36:51.339 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:35:51.329+0200 to 2018-10-18T09:36:51.331+0200
+2018-10-18 09:37:21.052 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.6 to 26.4
+2018-10-18 09:37:21.094 [vent.ItemStateChangedEvent] - HumidMqtt changed from 36.2 to 34.8
+2018-10-18 09:37:22.068 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 808 to -1
+2018-10-18 09:37:22.106 [vent.ItemStateChangedEvent] - CO2Mqtt changed from -1 to 400
+2018-10-18 09:37:23.103 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 400 to 430
+2018-10-18 09:37:28.110 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 430 to 410
+2018-10-18 09:37:51.338 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:36:51.331+0200 to 2018-10-18T09:37:51.333+0200
+2018-10-18 09:37:51.339 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:36:51.331+0200 to 2018-10-18T09:37:51.333+0200
+2018-10-18 09:38:23.169 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 410 to 806
+2018-10-18 09:38:51.340 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:37:51.333+0200 to 2018-10-18T09:38:51.334+0200
+2018-10-18 09:38:51.342 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:37:51.333+0200 to 2018-10-18T09:38:51.334+0200
+2018-10-18 09:38:58.208 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 806 to 827
+2018-10-18 09:39:51.339 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:38:51.334+0200 to 2018-10-18T09:39:51.336+0200
+2018-10-18 09:39:51.341 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:38:51.334+0200 to 2018-10-18T09:39:51.336+0200
+2018-10-18 09:40:04.283 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 827 to 848
+2018-10-18 09:40:39.319 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 848 to 868
+2018-10-18 09:40:51.342 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:39:51.336+0200 to 2018-10-18T09:40:51.337+0200
+2018-10-18 09:40:51.343 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:39:51.336+0200 to 2018-10-18T09:40:51.337+0200
+2018-10-18 09:41:51.344 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:40:51.337+0200 to 2018-10-18T09:41:51.338+0200
+2018-10-18 09:41:51.344 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:40:51.337+0200 to 2018-10-18T09:41:51.338+0200
+2018-10-18 09:41:54.079 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.4 to 26.6
+2018-10-18 09:42:20.436 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 868 to 893
+2018-10-18 09:42:51.346 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:41:51.338+0200 to 2018-10-18T09:42:51.340+0200
+2018-10-18 09:42:51.347 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:41:51.338+0200 to 2018-10-18T09:42:51.340+0200
+2018-10-18 09:43:09.988 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.6 to 26.3
+2018-10-18 09:43:43.804 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.3 to 25.9
+2018-10-18 09:43:51.347 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:42:51.340+0200 to 2018-10-18T09:43:51.342+0200
+2018-10-18 09:43:51.348 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:42:51.340+0200 to 2018-10-18T09:43:51.342+0200
+2018-10-18 09:43:51.529 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 893 to 873
+2018-10-18 09:44:04.101 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.9 to 25.5
+2018-10-18 09:44:06.545 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 873 to 848
+2018-10-18 09:44:21.561 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 848 to 827
+2018-10-18 09:44:37.919 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.5 to 25.1
+2018-10-18 09:44:41.585 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 827 to 807
+2018-10-18 09:44:51.348 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:43:51.342+0200 to 2018-10-18T09:44:51.343+0200
+2018-10-18 09:44:51.350 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:43:51.342+0200 to 2018-10-18T09:44:51.343+0200
+2018-10-18 09:44:58.216 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.8 to 36.7
+2018-10-18 09:45:11.618 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 807 to 786
+2018-10-18 09:45:51.350 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:44:51.343+0200 to 2018-10-18T09:45:51.345+0200
+2018-10-18 09:45:51.351 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:44:51.343+0200 to 2018-10-18T09:45:51.345+0200
+2018-10-18 09:45:59.089 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.1 to 27.2
+2018-10-18 09:46:01.672 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 786 to 766
+2018-10-18 09:46:02.479 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.2 to 25.4
+2018-10-18 09:46:51.351 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:45:51.345+0200 to 2018-10-18T09:46:51.347+0200
+2018-10-18 09:46:51.353 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:45:51.345+0200 to 2018-10-18T09:46:51.347+0200
+2018-10-18 09:46:53.206 [vent.ItemStateChangedEvent] - HumidMqtt changed from 36.7 to 34.7
+2018-10-18 09:47:10.123 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.4 to 25.7
+2018-10-18 09:47:51.352 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:46:51.347+0200 to 2018-10-18T09:47:51.349+0200
+2018-10-18 09:47:51.353 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:46:51.347+0200 to 2018-10-18T09:47:51.349+0200
+2018-10-18 09:48:24.511 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.7 to 26.1
+2018-10-18 09:48:43.844 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 766 to 786
+2018-10-18 09:48:51.356 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:47:51.349+0200 to 2018-10-18T09:48:51.350+0200
+2018-10-18 09:48:51.356 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:47:51.349+0200 to 2018-10-18T09:48:51.350+0200
+2018-10-18 09:49:51.357 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:48:51.350+0200 to 2018-10-18T09:49:51.351+0200
+2018-10-18 09:49:51.358 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:48:51.350+0200 to 2018-10-18T09:49:51.351+0200
+2018-10-18 09:49:53.925 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 786 to 807
+2018-10-18 09:50:05.958 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.7 to 37.2
+2018-10-18 09:50:09.348 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37.2 to 34.3
+2018-10-18 09:50:16.120 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.3 to 37.1
+2018-10-18 09:50:19.507 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37.1 to 34.9
+2018-10-18 09:50:26.277 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.9 to 37.2
+2018-10-18 09:50:29.666 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37.2 to 34.3
+2018-10-18 09:50:36.440 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.3 to 37.3
+2018-10-18 09:50:39.830 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37.3 to 34.9
+2018-10-18 09:50:51.358 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:49:51.351+0200 to 2018-10-18T09:50:51.353+0200
+2018-10-18 09:50:51.359 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:49:51.351+0200 to 2018-10-18T09:50:51.353+0200
+2018-10-18 09:51:51.360 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:50:51.353+0200 to 2018-10-18T09:51:51.355+0200
+2018-10-18 09:51:51.362 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:50:51.353+0200 to 2018-10-18T09:51:51.355+0200
+2018-10-18 09:52:51.361 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:51:51.355+0200 to 2018-10-18T09:52:51.356+0200
+2018-10-18 09:52:51.362 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:51:51.355+0200 to 2018-10-18T09:52:51.356+0200
+2018-10-18 09:52:55.078 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.1 to 26.5
+2018-10-18 09:53:06.136 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 807 to 786
+2018-10-18 09:53:51.360 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:52:51.356+0200 to 2018-10-18T09:53:51.358+0200
+2018-10-18 09:53:51.360 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:52:51.356+0200 to 2018-10-18T09:53:51.358+0200
+2018-10-18 09:54:51.363 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:53:51.358+0200 to 2018-10-18T09:54:51.358+0200
+2018-10-18 09:54:51.365 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:53:51.358+0200 to 2018-10-18T09:54:51.358+0200
+2018-10-18 09:55:06.948 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.5 to 26.1
+2018-10-18 09:55:07.273 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 786 to 806
+2018-10-18 09:55:13.719 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.9 to 37
+2018-10-18 09:55:17.106 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37 to 34
+2018-10-18 09:55:23.876 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34 to 37
+2018-10-18 09:55:27.276 [vent.ItemStateChangedEvent] - HumidMqtt changed from 37 to 34.2
+2018-10-18 09:55:44.191 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.1 to 25.8
+2018-10-18 09:55:51.433 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:54:51.358+0200 to 2018-10-18T09:55:51.424+0200
+2018-10-18 09:55:51.433 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:54:51.358+0200 to 2018-10-18T09:55:51.424+0200
+2018-10-18 09:56:38.300 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.8 to 25.4
+2018-10-18 09:56:47.388 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 806 to 829
+2018-10-18 09:56:51.434 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:55:51.424+0200 to 2018-10-18T09:56:51.425+0200
+2018-10-18 09:56:51.435 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:55:51.424+0200 to 2018-10-18T09:56:51.425+0200
+2018-10-18 09:57:08.732 [vent.ItemStateChangedEvent] - HumidMqtt changed from 34.2 to 36.3
+2018-10-18 09:57:28.430 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 829 to 852
+2018-10-18 09:57:51.437 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:56:51.425+0200 to 2018-10-18T09:57:51.427+0200
+2018-10-18 09:57:51.437 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:56:51.425+0200 to 2018-10-18T09:57:51.427+0200
+2018-10-18 09:58:26.514 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.4 to 25
+2018-10-18 09:58:51.441 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:57:51.427+0200 to 2018-10-18T09:58:51.429+0200
+2018-10-18 09:58:51.442 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:57:51.427+0200 to 2018-10-18T09:58:51.429+0200
+2018-10-18 09:59:00.330 [vent.ItemStateChangedEvent] - HumidMqtt changed from 36.3 to 38.7
+2018-10-18 09:59:51.440 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:58:51.429+0200 to 2018-10-18T09:59:51.430+0200
+2018-10-18 09:59:51.441 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:58:51.429+0200 to 2018-10-18T09:59:51.430+0200
+2018-10-18 09:59:54.437 [vent.ItemStateChangedEvent] - TempMqtt changed from 25 to 24.6
+2018-10-18 09:59:54.590 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 852 to 873
+2018-10-18 10:00:01.214 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.6 to 23.8
+2018-10-18 10:00:04.613 [vent.ItemStateChangedEvent] - TempMqtt changed from 23.8 to 24.7
+2018-10-18 10:00:24.618 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 873 to 893
+2018-10-18 10:00:51.441 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T09:59:51.430+0200 to 2018-10-18T10:00:51.432+0200
+2018-10-18 10:00:51.442 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T09:59:51.430+0200 to 2018-10-18T10:00:51.432+0200
+2018-10-18 10:01:02.094 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.7 to 24.4
+2018-10-18 10:01:51.443 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:00:51.432+0200 to 2018-10-18T10:01:51.433+0200
+2018-10-18 10:01:51.444 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:00:51.432+0200 to 2018-10-18T10:01:51.433+0200
+2018-10-18 10:02:51.443 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:01:51.433+0200 to 2018-10-18T10:02:51.435+0200
+2018-10-18 10:02:51.445 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:01:51.433+0200 to 2018-10-18T10:02:51.435+0200
+2018-10-18 10:03:37.638 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 41.2
+2018-10-18 10:03:41.027 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 38.3
+2018-10-18 10:03:47.796 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.3 to 41.2
+2018-10-18 10:03:51.188 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 38.4
+2018-10-18 10:03:51.445 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:02:51.435+0200 to 2018-10-18T10:03:51.436+0200
+2018-10-18 10:03:51.446 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:02:51.435+0200 to 2018-10-18T10:03:51.436+0200
+2018-10-18 10:04:08.110 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.4 to 40.7
+2018-10-18 10:04:11.493 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.7 to 38.5
+2018-10-18 10:04:51.449 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:03:51.436+0200 to 2018-10-18T10:04:51.438+0200
+2018-10-18 10:04:51.451 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:03:51.436+0200 to 2018-10-18T10:04:51.438+0200
+2018-10-18 10:05:29.080 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 10:05:29.081 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 10:05:30.308 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-18 10:05:30.309 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 893
+2018-10-18 10:05:30.310 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 24.4
+2018-10-18 10:05:30.311 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 38.5
+2018-10-18 10:05:30.363 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-18 10:05:30.389 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-18T10:05:30.361+0200
+2018-10-18 10:05:30.390 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-18T10:05:30.361+0200
+2018-10-18 10:05:30.393 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:05:30.361+0200 to 2018-10-18T10:05:30.380+0200
+2018-10-18 10:05:30.393 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:05:30.361+0200 to 2018-10-18T10:05:30.380+0200
+2018-10-18 10:05:30.733 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:05:39.407 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.4 to 24.7
+2018-10-18 10:05:56.986 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 893 to 915
+2018-10-18 10:06:17.010 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 915 to 936
+2018-10-18 10:06:30.409 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:05:30.380+0200 to 2018-10-18T10:06:30.385+0200
+2018-10-18 10:06:30.420 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:05:30.380+0200 to 2018-10-18T10:06:30.385+0200
+2018-10-18 10:07:30.393 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:06:30.385+0200 to 2018-10-18T10:07:30.388+0200
+2018-10-18 10:07:30.394 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:06:30.385+0200 to 2018-10-18T10:07:30.388+0200
+2018-10-18 10:07:43.104 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 936 to 956
+2018-10-18 10:07:54.663 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.5 to 41
+2018-10-18 10:07:58.052 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41 to 38.8
+2018-10-18 10:08:04.854 [vent.ItemStateChangedEvent] - TempMqtt changed from 24.7 to 25.1
+2018-10-18 10:08:04.899 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 41
+2018-10-18 10:08:11.626 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41 to 38.7
+2018-10-18 10:08:15.012 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 41
+2018-10-18 10:08:21.785 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41 to 38.7
+2018-10-18 10:08:25.171 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 40.9
+2018-10-18 10:08:30.407 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:07:30.388+0200 to 2018-10-18T10:08:30.389+0200
+2018-10-18 10:08:30.409 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:07:30.388+0200 to 2018-10-18T10:08:30.389+0200
+2018-10-18 10:08:38.705 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.9 to 38.7
+2018-10-18 10:08:45.477 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.1 to 25.7
+2018-10-18 10:08:48.870 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.7 to 25.1
+2018-10-18 10:08:53.179 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 956 to 978
+2018-10-18 10:09:30.407 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:08:30.389+0200 to 2018-10-18T10:09:30.393+0200
+2018-10-18 10:09:30.412 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:08:30.389+0200 to 2018-10-18T10:09:30.393+0200
+2018-10-18 10:10:30.402 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:09:30.393+0200 to 2018-10-18T10:10:30.397+0200
+2018-10-18 10:10:30.402 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:09:30.393+0200 to 2018-10-18T10:10:30.397+0200
+2018-10-18 10:10:39.294 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 978 to 999
+2018-10-18 10:11:16.740 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 10:11:16.741 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 10:11:18.035 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 999
+2018-10-18 10:11:18.045 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 25.5
+2018-10-18 10:11:18.046 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 38.7
+2018-10-18 10:11:18.143 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-18 10:11:18.216 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-18 10:11:18.280 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-18T10:11:18.214+0200
+2018-10-18 10:11:18.281 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-18T10:11:18.214+0200
+2018-10-18 10:11:18.298 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:11:18.214+0200 to 2018-10-18T10:11:18.236+0200
+2018-10-18 10:11:18.300 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:11:18.214+0200 to 2018-10-18T10:11:18.236+0200
+2018-10-18 10:11:18.365 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:11:35.357 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 999 to 1019
+2018-10-18 10:12:18.245 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:11:18.236+0200 to 2018-10-18T10:12:18.236+0200
+2018-10-18 10:12:18.246 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:11:18.236+0200 to 2018-10-18T10:12:18.236+0200
+2018-10-18 10:12:42.189 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 41.2
+2018-10-18 10:12:45.432 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1019 to 1039
+2018-10-18 10:12:45.576 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 38.3
+2018-10-18 10:12:52.344 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.3 to 40.5
+2018-10-18 10:12:55.735 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.5 to 38.3
+2018-10-18 10:13:02.504 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.3 to 40.4
+2018-10-18 10:13:09.273 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.4 to 38.1
+2018-10-18 10:13:12.663 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.1 to 40.6
+2018-10-18 10:13:16.052 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.6 to 38.1
+2018-10-18 10:13:18.250 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:12:18.236+0200 to 2018-10-18T10:13:18.242+0200
+2018-10-18 10:13:18.252 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:12:18.236+0200 to 2018-10-18T10:13:18.242+0200
+2018-10-18 10:14:18.253 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:13:18.242+0200 to 2018-10-18T10:14:18.246+0200
+2018-10-18 10:14:18.254 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:13:18.242+0200 to 2018-10-18T10:14:18.246+0200
+2018-10-18 10:15:06.586 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1039 to 1059
+2018-10-18 10:15:18.257 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:14:18.246+0200 to 2018-10-18T10:15:18.250+0200
+2018-10-18 10:15:18.258 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:14:18.246+0200 to 2018-10-18T10:15:18.250+0200
+2018-10-18 10:15:38.082 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.5 to 25.9
+2018-10-18 10:16:18.262 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:15:18.250+0200 to 2018-10-18T10:16:18.254+0200
+2018-10-18 10:16:18.263 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:15:18.250+0200 to 2018-10-18T10:16:18.254+0200
+2018-10-18 10:16:32.682 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1059 to 1079
+2018-10-18 10:16:59.238 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.1 to 40.8
+2018-10-18 10:17:02.630 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.8 to 38
+2018-10-18 10:17:09.401 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38 to 40.2
+2018-10-18 10:17:12.787 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.2 to 38
+2018-10-18 10:17:18.270 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:16:18.254+0200 to 2018-10-18T10:17:18.257+0200
+2018-10-18 10:17:18.272 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:16:18.254+0200 to 2018-10-18T10:17:18.257+0200
+2018-10-18 10:17:19.557 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38 to 40.2
+2018-10-18 10:17:22.950 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.2 to 38
+2018-10-18 10:17:29.724 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38 to 40.2
+2018-10-18 10:17:33.118 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.2 to 38
+2018-10-18 10:17:39.887 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38 to 40
+2018-10-18 10:17:50.043 [vent.ItemStateChangedEvent] - TempMqtt changed from 25.9 to 26.4
+2018-10-18 10:17:53.435 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.4 to 26
+2018-10-18 10:18:03.587 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40 to 38
+2018-10-18 10:18:18.264 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:17:18.257+0200 to 2018-10-18T10:18:18.259+0200
+2018-10-18 10:18:18.265 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:17:18.257+0200 to 2018-10-18T10:18:18.259+0200
+2018-10-18 10:19:18.275 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:18:18.259+0200 to 2018-10-18T10:19:18.260+0200
+2018-10-18 10:19:18.277 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:18:18.259+0200 to 2018-10-18T10:19:18.260+0200
+2018-10-18 10:19:33.894 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1079 to 1099
+2018-10-18 10:19:58.923 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1099 to 1123
+2018-10-18 10:20:18.283 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:19:18.260+0200 to 2018-10-18T10:20:18.263+0200
+2018-10-18 10:20:18.288 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:19:18.260+0200 to 2018-10-18T10:20:18.263+0200
+2018-10-18 10:20:18.943 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1123 to 1146
+2018-10-18 10:20:51.135 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-11, value=590.80975} to {date=2018-10-18, value=750.84}
+2018-10-18 10:21:04.991 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1146 to 1166
+2018-10-18 10:21:05.339 [vent.ItemStateChangedEvent] - AvgCo2Week changed from {date=2018-10-18, value=750.84} to {date=2018-10-18, value=754.9505}
+2018-10-18 10:21:18.269 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:20:18.263+0200 to 2018-10-18T10:21:18.265+0200
+2018-10-18 10:21:18.270 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:20:18.263+0200 to 2018-10-18T10:21:18.265+0200
+2018-10-18 10:21:25.470 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Week' has been updated.
+2018-10-18 10:21:25.622 [vent.ItemStateChangedEvent] - AvgCo2Week changed from NULL to {date=2018-10-18, value=754.9505}
+2018-10-18 10:21:26.471 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38 to 40.4
+2018-10-18 10:21:33.240 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.4 to 38.2
+2018-10-18 10:21:36.844 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.2 to 41.1
+2018-10-18 10:21:38.813 [vent.ItemStateChangedEvent] - AvgCo2Today changed from NULL to {date=2018-10-18, value=754.9505}
+2018-10-18 10:21:38.826 [vent.ItemStateChangedEvent] - AvgCo2Day changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:21:40.030 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.1 to 38.9
+2018-10-18 10:22:05.074 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1166 to 1188
+2018-10-18 10:22:05.331 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=754.9505} to {date=2018-10-18, value=759.1961}
+2018-10-18 10:22:18.271 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:21:18.265+0200 to 2018-10-18T10:22:18.266+0200
+2018-10-18 10:22:18.271 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:21:18.265+0200 to 2018-10-18T10:22:18.266+0200
+2018-10-18 10:22:37.501 [vent.ItemStateChangedEvent] - TempMqtt changed from 26 to 26.4
+2018-10-18 10:23:16.136 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1188 to 1208
+2018-10-18 10:23:16.668 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=759.1961} to {date=2018-10-18, value=763.5534}
+2018-10-18 10:23:18.276 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:22:18.266+0200 to 2018-10-18T10:23:18.267+0200
+2018-10-18 10:23:18.279 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:22:18.266+0200 to 2018-10-18T10:23:18.267+0200
+2018-10-18 10:24:06.199 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1208 to 1230
+2018-10-18 10:24:06.833 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=763.5534} to {date=2018-10-18, value=768.03845}
+2018-10-18 10:24:18.284 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:23:18.267+0200 to 2018-10-18T10:24:18.269+0200
+2018-10-18 10:24:18.288 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:23:18.267+0200 to 2018-10-18T10:24:18.269+0200
+2018-10-18 10:24:41.230 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1230 to 1252
+2018-10-18 10:24:41.481 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=768.03845} to {date=2018-10-18, value=772.64764}
+2018-10-18 10:25:18.276 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:24:18.269+0200 to 2018-10-18T10:25:18.272+0200
+2018-10-18 10:25:18.278 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:24:18.269+0200 to 2018-10-18T10:25:18.272+0200
+2018-10-18 10:25:22.274 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1252 to 1273
+2018-10-18 10:25:23.223 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=772.64764} to {date=2018-10-18, value=777.3679}
+2018-10-18 10:25:47.302 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1273 to 1293
+2018-10-18 10:25:47.638 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=777.3679} to {date=2018-10-18, value=782.1869}
+2018-10-18 10:25:48.507 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Day' has been updated.
+2018-10-18 10:25:49.677 [vent.ItemStateChangedEvent] - AvgCo2Day changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:26:07.322 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1293 to 1314
+2018-10-18 10:26:07.977 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=782.1869} to {date=2018-10-18, value=787.1111}
+2018-10-18 10:26:13.904 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.9 to 41
+2018-10-18 10:26:18.278 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:25:18.272+0200 to 2018-10-18T10:26:18.273+0200
+2018-10-18 10:26:18.279 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:25:18.272+0200 to 2018-10-18T10:26:18.273+0200
+2018-10-18 10:26:30.817 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41 to 38.7
+2018-10-18 10:26:34.208 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 40.9
+2018-10-18 10:26:37.596 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.9 to 38.7
+2018-10-18 10:26:44.366 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 41.1
+2018-10-18 10:26:57.377 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1314 to 1334
+2018-10-18 10:26:57.826 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=787.1111} to {date=2018-10-18, value=792.1284}
+2018-10-18 10:26:57.898 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.1 to 38.7
+2018-10-18 10:27:04.670 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.4 to 26
+2018-10-18 10:27:08.061 [vent.ItemStateChangedEvent] - TempMqtt changed from 26 to 26.4
+2018-10-18 10:27:18.279 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:26:18.273+0200 to 2018-10-18T10:27:18.274+0200
+2018-10-18 10:27:18.281 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:26:18.273+0200 to 2018-10-18T10:27:18.274+0200
+2018-10-18 10:28:18.300 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:27:18.274+0200 to 2018-10-18T10:28:18.276+0200
+2018-10-18 10:28:18.301 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:27:18.274+0200 to 2018-10-18T10:28:18.276+0200
+2018-10-18 10:28:58.507 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1334 to 1354
+2018-10-18 10:28:58.924 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=792.1284} to {date=2018-10-18, value=797.2364}
+2018-10-18 10:29:18.299 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:28:18.276+0200 to 2018-10-18T10:29:18.296+0200
+2018-10-18 10:29:18.300 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:28:18.276+0200 to 2018-10-18T10:29:18.296+0200
+2018-10-18 10:30:18.300 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:29:18.296+0200 to 2018-10-18T10:30:18.297+0200
+2018-10-18 10:30:18.301 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:29:18.296+0200 to 2018-10-18T10:30:18.297+0200
+2018-10-18 10:30:51.226 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.7 to 40.9
+2018-10-18 10:30:58.005 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.4 to 26.7
+2018-10-18 10:31:00.388 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1354 to 1374
+2018-10-18 10:31:00.975 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=797.2364} to {date=2018-10-18, value=802.43243}
+2018-10-18 10:31:18.306 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:30:18.297+0200 to 2018-10-18T10:31:18.298+0200
+2018-10-18 10:31:18.308 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:30:18.297+0200 to 2018-10-18T10:31:18.298+0200
+2018-10-18 10:31:52.113 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.7 to 26.3
+2018-10-18 10:31:55.510 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.3 to 26.7
+2018-10-18 10:32:05.706 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1374 to 1394
+2018-10-18 10:32:06.086 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=802.43243} to {date=2018-10-18, value=807.7143}
+2018-10-18 10:32:18.302 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:31:18.298+0200 to 2018-10-18T10:32:18.299+0200
+2018-10-18 10:32:18.303 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:31:18.298+0200 to 2018-10-18T10:32:18.299+0200
+2018-10-18 10:33:05.769 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1394 to 1414
+2018-10-18 10:33:06.092 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=807.7143} to {date=2018-10-18, value=813.07965}
+2018-10-18 10:33:12.981 [ome.event.ItemUpdatedEvent] - Item 'AvgCo2Day' has been updated.
+2018-10-18 10:33:15.252 [vent.ItemStateChangedEvent] - AvgCo2Day changed from NULL to {date=2018-10-17, value=868.1707}
+2018-10-18 10:33:18.304 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:32:18.299+0200 to 2018-10-18T10:33:18.300+0200
+2018-10-18 10:33:18.305 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:32:18.299+0200 to 2018-10-18T10:33:18.300+0200
+2018-10-18 10:33:33.562 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.9 to 38.9
+2018-10-18 10:33:40.808 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1414 to 1434
+2018-10-18 10:33:41.663 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=813.07965} to {date=2018-10-18, value=818.5263}
+2018-10-18 10:33:50.825 [vent.ItemStateChangedEvent] - AvgCo21710 changed from NULL to {date=2018-10-17, value=868.1707}
+2018-10-18 10:33:50.836 [vent.ItemStateChangedEvent] - AvgCo21410 changed from NULL to {date=2018-10-14, value=400.44446}
+2018-10-18 10:33:50.851 [vent.ItemStateChangedEvent] - AvgCo21010 changed from NULL to {date=2018-10-10, value=704.49854}
+2018-10-18 10:33:50.864 [vent.ItemStateChangedEvent] - AvgCo21110 changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:34:18.305 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:33:18.300+0200 to 2018-10-18T10:34:18.301+0200
+2018-10-18 10:34:18.305 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:33:18.300+0200 to 2018-10-18T10:34:18.301+0200
+2018-10-18 10:34:38.698 [ome.event.ItemUpdatedEvent] - Item 'AvgCo21410' has been updated.
+2018-10-18 10:34:40.255 [vent.ItemStateChangedEvent] - AvgCo21410 changed from NULL to {date=2018-10-14, value=400.44446}
+2018-10-18 10:35:18.307 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:34:18.301+0200 to 2018-10-18T10:35:18.302+0200
+2018-10-18 10:35:18.307 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:34:18.301+0200 to 2018-10-18T10:35:18.302+0200
+2018-10-18 10:35:24.913 [ome.event.ItemUpdatedEvent] - Item 'AvgCo21010' has been updated.
+2018-10-18 10:35:24.928 [ome.event.ItemUpdatedEvent] - Item 'AvgCo21110' has been updated.
+2018-10-18 10:35:24.931 [ome.event.ItemUpdatedEvent] - Item 'AvgCo21710' has been updated.
+2018-10-18 10:35:26.809 [vent.ItemStateChangedEvent] - AvgCo21710 changed from NULL to {date=2018-10-17, value=868.1707}
+2018-10-18 10:35:26.833 [vent.ItemStateChangedEvent] - AvgCo21010 changed from NULL to {date=2018-10-10, value=704.49854}
+2018-10-18 10:35:26.847 [vent.ItemStateChangedEvent] - AvgCo21110 changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 10:35:38.682 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.9 to 41.2
+2018-10-18 10:35:42.066 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 39
+2018-10-18 10:35:48.839 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 41.2
+2018-10-18 10:35:55.606 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 39
+2018-10-18 10:35:58.996 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 41.2
+2018-10-18 10:36:02.411 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 38.9
+2018-10-18 10:36:09.158 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.9 to 41.2
+2018-10-18 10:36:12.544 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 39
+2018-10-18 10:36:18.307 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:35:18.302+0200 to 2018-10-18T10:36:18.303+0200
+2018-10-18 10:36:18.307 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:35:18.302+0200 to 2018-10-18T10:36:18.303+0200
+2018-10-18 10:36:19.315 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 41.2
+2018-10-18 10:36:21.983 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1434 to 1455
+2018-10-18 10:36:22.367 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=818.5263} to {date=2018-10-18, value=824.06085}
+2018-10-18 10:36:22.704 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.2 to 39
+2018-10-18 10:36:41.953 [ome.event.ItemUpdatedEvent] - Item 'CO2Mqtt' has been updated.
+2018-10-18 10:36:41.954 [ome.event.ItemUpdatedEvent] - Item 'TempMqtt' has been updated.
+2018-10-18 10:36:41.963 [ome.event.ItemUpdatedEvent] - Item 'HumidMqtt' has been updated.
+2018-10-18 10:36:41.971 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 1455
+2018-10-18 10:36:41.978 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 26.7
+2018-10-18 10:36:41.982 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 39
+2018-10-18 10:37:18.309 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:36:18.303+0200 to 2018-10-18T10:37:18.304+0200
+2018-10-18 10:37:18.309 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:36:18.303+0200 to 2018-10-18T10:37:18.304+0200
+2018-10-18 10:37:48.077 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1455 to 1475
+2018-10-18 10:37:48.806 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=824.06085} to {date=2018-10-18, value=829.6724}
+2018-10-18 10:38:18.308 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:37:18.304+0200 to 2018-10-18T10:38:18.305+0200
+2018-10-18 10:38:18.314 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:37:18.304+0200 to 2018-10-18T10:38:18.305+0200
+2018-10-18 10:38:28.121 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1475 to 1496
+2018-10-18 10:38:28.933 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=829.6724} to {date=2018-10-18, value=835.3675}
+2018-10-18 10:39:18.310 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:38:18.305+0200 to 2018-10-18T10:39:18.306+0200
+2018-10-18 10:39:18.311 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:38:18.305+0200 to 2018-10-18T10:39:18.306+0200
+2018-10-18 10:39:19.176 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1496 to 1516
+2018-10-18 10:39:19.382 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=835.3675} to {date=2018-10-18, value=841.1356}
+2018-10-18 10:40:16.016 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 41.5
+2018-10-18 10:40:18.312 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:39:18.306+0200 to 2018-10-18T10:40:18.307+0200
+2018-10-18 10:40:18.314 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:39:18.306+0200 to 2018-10-18T10:40:18.307+0200
+2018-10-18 10:40:22.786 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.5 to 39.4
+2018-10-18 10:40:26.176 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.4 to 41.5
+2018-10-18 10:40:32.943 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.5 to 39.3
+2018-10-18 10:40:36.333 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.3 to 41.5
+2018-10-18 10:40:43.102 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.5 to 39.4
+2018-10-18 10:40:46.493 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.4 to 42.2
+2018-10-18 10:40:49.882 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.2 to 40
+2018-10-18 10:40:56.652 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40 to 42.3
+2018-10-18 10:41:00.041 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.3 to 39.5
+2018-10-18 10:41:18.338 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:40:18.307+0200 to 2018-10-18T10:41:18.336+0200
+2018-10-18 10:41:18.338 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:40:18.307+0200 to 2018-10-18T10:41:18.336+0200
+2018-10-18 10:41:30.321 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1516 to 1536
+2018-10-18 10:41:31.007 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=841.1356} to {date=2018-10-18, value=846.9748}
+2018-10-18 10:41:50.343 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1536 to 1564
+2018-10-18 10:41:50.591 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=846.9748} to {date=2018-10-18, value=852.95}
+2018-10-18 10:42:05.359 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1564 to 1595
+2018-10-18 10:42:06.028 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=852.95} to {date=2018-10-18, value=859.08264}
+2018-10-18 10:42:15.369 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1595 to 1621
+2018-10-18 10:42:16.304 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=859.08264} to {date=2018-10-18, value=865.3279}
+2018-10-18 10:42:18.337 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:41:18.336+0200 to 2018-10-18T10:42:18.336+0200
+2018-10-18 10:42:18.341 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:41:18.336+0200 to 2018-10-18T10:42:18.336+0200
+2018-10-18 10:42:25.381 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1621 to 1645
+2018-10-18 10:42:25.564 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=865.3279} to {date=2018-10-18, value=871.6667}
+2018-10-18 10:42:40.397 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1645 to 1671
+2018-10-18 10:42:40.985 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=871.6667} to {date=2018-10-18, value=878.1129}
+2018-10-18 10:42:55.414 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1671 to 1692
+2018-10-18 10:42:56.403 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=878.1129} to {date=2018-10-18, value=884.624}
+2018-10-18 10:43:06.679 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.7 to 27.1
+2018-10-18 10:43:18.339 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:42:18.336+0200 to 2018-10-18T10:43:18.337+0200
+2018-10-18 10:43:18.339 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:42:18.336+0200 to 2018-10-18T10:43:18.337+0200
+2018-10-18 10:43:31.453 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1692 to 1714
+2018-10-18 10:43:32.455 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=884.624} to {date=2018-10-18, value=891.20636}
+2018-10-18 10:43:56.480 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1714 to 1736
+2018-10-18 10:43:57.176 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=891.20636} to {date=2018-10-18, value=897.8583}
+2018-10-18 10:44:18.340 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:43:18.337+0200 to 2018-10-18T10:44:18.337+0200
+2018-10-18 10:44:18.340 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:43:18.337+0200 to 2018-10-18T10:44:18.337+0200
+2018-10-18 10:45:01.551 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1736 to 1756
+2018-10-18 10:45:02.024 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=897.8583} to {date=2018-10-18, value=904.5625}
+2018-10-18 10:45:03.502 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.5 to 42.1
+2018-10-18 10:45:10.272 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.1 to 40
+2018-10-18 10:45:18.339 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:44:18.337+0200 to 2018-10-18T10:45:18.338+0200
+2018-10-18 10:45:18.340 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:44:18.337+0200 to 2018-10-18T10:45:18.338+0200
+2018-10-18 10:45:23.803 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40 to 42.2
+2018-10-18 10:45:27.194 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.2 to 40
+2018-10-18 10:45:33.969 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40 to 42.9
+2018-10-18 10:45:37.353 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.9 to 40.1
+2018-10-18 10:45:42.595 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1756 to 1779
+2018-10-18 10:45:43.357 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=904.5625} to {date=2018-10-18, value=911.34106}
+2018-10-18 10:45:44.124 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.1 to 42.2
+2018-10-18 10:45:47.522 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.2 to 40.1
+2018-10-18 10:45:54.285 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.1 to 26.8
+2018-10-18 10:46:04.438 [vent.ItemStateChangedEvent] - TempMqtt changed from 26.8 to 27.1
+2018-10-18 10:46:18.339 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:45:18.338+0200 to 2018-10-18T10:46:18.338+0200
+2018-10-18 10:46:18.340 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:45:18.338+0200 to 2018-10-18T10:46:18.338+0200
+2018-10-18 10:46:22.639 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1779 to 1800
+2018-10-18 10:46:23.496 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=911.34106} to {date=2018-10-18, value=918.17694}
+2018-10-18 10:47:18.341 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:46:18.338+0200 to 2018-10-18T10:47:18.339+0200
+2018-10-18 10:47:18.341 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:46:18.338+0200 to 2018-10-18T10:47:18.339+0200
+2018-10-18 10:48:18.341 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:47:18.339+0200 to 2018-10-18T10:48:18.340+0200
+2018-10-18 10:48:18.350 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:47:18.339+0200 to 2018-10-18T10:48:18.340+0200
+2018-10-18 10:48:48.800 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1800 to 1820
+2018-10-18 10:48:49.528 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=918.17694} to {date=2018-10-18, value=925.0611}
+2018-10-18 10:49:18.341 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:48:18.340+0200 to 2018-10-18T10:49:18.341+0200
+2018-10-18 10:49:18.343 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:48:18.340+0200 to 2018-10-18T10:49:18.341+0200
+2018-10-18 10:49:40.856 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.1 to 42.7
+2018-10-18 10:49:43.856 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1820 to 1842
+2018-10-18 10:49:44.089 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=925.0611} to {date=2018-10-18, value=932.00757}
+2018-10-18 10:49:44.225 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.7 to 40.5
+2018-10-18 10:49:50.994 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.5 to 42.6
+2018-10-18 10:49:54.383 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.6 to 40.4
+2018-10-18 10:50:01.154 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.4 to 43.2
+2018-10-18 10:50:04.544 [vent.ItemStateChangedEvent] - HumidMqtt changed from 43.2 to 40.4
+2018-10-18 10:50:11.313 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.4 to 42.6
+2018-10-18 10:50:18.342 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:49:18.341+0200 to 2018-10-18T10:50:18.341+0200
+2018-10-18 10:50:18.342 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:49:18.341+0200 to 2018-10-18T10:50:18.341+0200
+2018-10-18 10:50:24.846 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.6 to 40.4
+2018-10-18 10:50:31.624 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.4 to 42.7
+2018-10-18 10:50:38.387 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.7 to 40.2
+2018-10-18 10:51:18.343 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:50:18.341+0200 to 2018-10-18T10:51:18.342+0200
+2018-10-18 10:51:18.344 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:50:18.341+0200 to 2018-10-18T10:51:18.342+0200
+2018-10-18 10:52:18.343 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:51:18.342+0200 to 2018-10-18T10:52:18.342+0200
+2018-10-18 10:52:18.344 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:51:18.342+0200 to 2018-10-18T10:52:18.342+0200
+2018-10-18 10:52:26.071 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1842 to 1863
+2018-10-18 10:52:26.658 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=932.00757} to {date=2018-10-18, value=939.0075}
+2018-10-18 10:53:18.343 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:52:18.342+0200 to 2018-10-18T10:53:18.343+0200
+2018-10-18 10:53:18.344 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:52:18.342+0200 to 2018-10-18T10:53:18.343+0200
+2018-10-18 10:54:01.137 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1863 to 1887
+2018-10-18 10:54:01.334 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=939.0075} to {date=2018-10-18, value=946.0821}
+2018-10-18 10:54:18.344 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:53:18.343+0200 to 2018-10-18T10:54:18.343+0200
+2018-10-18 10:54:18.345 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:53:18.343+0200 to 2018-10-18T10:54:18.343+0200
+2018-10-18 10:54:28.322 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.2 to 42.4
+2018-10-18 10:54:32.170 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1887 to 1908
+2018-10-18 10:54:32.203 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=946.0821} to {date=2018-10-18, value=953.2074}
+2018-10-18 10:55:02.201 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1908 to 1931
+2018-10-18 10:55:03.078 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=953.2074} to {date=2018-10-18, value=960.39703}
+2018-10-18 10:55:18.344 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T10:54:18.343+0200 to 2018-10-18T10:55:18.344+0200
+2018-10-18 10:55:18.348 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T10:54:18.343+0200 to 2018-10-18T10:55:18.344+0200
+2018-10-18 10:55:42.248 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1931 to 1952
+2018-10-18 10:55:42.260 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=960.39703} to {date=2018-10-18, value=967.635}
+2018-10-18 13:26:51.861 [.ItemChannelLinkAddedEvent] - Link 'CurrTime-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 13:26:51.862 [.ItemChannelLinkAddedEvent] - Link 'Date-ntp:ntp:demo:dateTime' has been added.
+2018-10-18 13:26:52.653 [vent.ItemStateChangedEvent] - AvgCo2Today changed from NULL to {date=2018-10-18, value=1090.8309}
+2018-10-18 13:26:52.679 [vent.ItemStateChangedEvent] - AvgCo21710 changed from NULL to {date=2018-10-17, value=868.1707}
+2018-10-18 13:26:52.723 [vent.ItemStateChangedEvent] - AvgCo21410 changed from NULL to {date=2018-10-14, value=400.44446}
+2018-10-18 13:26:52.759 [vent.ItemStateChangedEvent] - AvgCo21010 changed from NULL to {date=2018-10-10, value=704.49854}
+2018-10-18 13:26:52.815 [vent.ItemStateChangedEvent] - AvgCo21110 changed from NULL to {date=2018-10-11, value=590.80975}
+2018-10-18 13:26:52.990 [vent.ItemStateChangedEvent] - CO2Mqtt changed from NULL to 1037
+2018-10-18 13:26:53.008 [vent.ItemStateChangedEvent] - TempMqtt changed from NULL to 27.8
+2018-10-18 13:26:53.024 [vent.ItemStateChangedEvent] - HumidMqtt changed from NULL to 38.8
+2018-10-18 13:26:53.105 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from UNINITIALIZED to INITIALIZING
+2018-10-18 13:26:53.187 [hingStatusInfoChangedEvent] - 'ntp:ntp:demo' changed from INITIALIZING to ONLINE
+2018-10-18 13:26:53.228 [vent.ItemStateChangedEvent] - CurrTime changed from NULL to 2018-10-18T13:26:53.184+0200
+2018-10-18 13:26:53.274 [vent.ItemStateChangedEvent] - Date changed from NULL to 2018-10-18T13:26:53.184+0200
+2018-10-18 13:26:53.275 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:26:53.184+0200 to 2018-10-18T13:26:53.231+0200
+2018-10-18 13:26:53.275 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:26:53.184+0200 to 2018-10-18T13:26:53.231+0200
+2018-10-18 13:26:53.504 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 41.8
+2018-10-18 13:26:56.935 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.8 to 38.8
+2018-10-18 13:27:03.715 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 41.9
+2018-10-18 13:27:07.352 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.9 to 39.4
+2018-10-18 13:27:11.655 [vent.ItemStateChangedEvent] - CO2Mqtt changed from 1037 to 1017
+2018-10-18 13:27:11.718 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=1090.8309} to {date=2018-10-18, value=1090.476}
+2018-10-18 13:27:13.806 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.4 to 41.9
+2018-10-18 13:27:17.205 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.9 to 39.4
+2018-10-18 13:27:23.966 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.4 to 41.9
+2018-10-18 13:27:27.360 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.9 to 39.4
+2018-10-18 13:27:34.221 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.8 to 27.3
+2018-10-18 13:27:37.536 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.3 to 27.6
+2018-10-18 13:27:53.246 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:26:53.231+0200 to 2018-10-18T13:27:53.231+0200
+2018-10-18 13:27:53.251 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:26:53.231+0200 to 2018-10-18T13:27:53.231+0200
+2018-10-18 13:28:53.248 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:27:53.231+0200 to 2018-10-18T13:28:53.234+0200
+2018-10-18 13:28:53.251 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:27:53.231+0200 to 2018-10-18T13:28:53.234+0200
+2018-10-18 13:29:53.245 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:28:53.234+0200 to 2018-10-18T13:29:53.237+0200
+2018-10-18 13:29:53.246 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:28:53.234+0200 to 2018-10-18T13:29:53.237+0200
+2018-10-18 13:30:53.249 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:29:53.237+0200 to 2018-10-18T13:30:53.240+0200
+2018-10-18 13:30:53.250 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:29:53.237+0200 to 2018-10-18T13:30:53.240+0200
+2018-10-18 13:31:30.838 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.4 to 41.8
+2018-10-18 13:31:34.247 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.8 to 38.8
+2018-10-18 13:31:41.201 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 42.5
+2018-10-18 13:31:44.485 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.5 to 38.9
+2018-10-18 13:31:51.244 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.9 to 41.9
+2018-10-18 13:31:53.251 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:30:53.240+0200 to 2018-10-18T13:31:53.243+0200
+2018-10-18 13:31:53.252 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:30:53.240+0200 to 2018-10-18T13:31:53.243+0200
+2018-10-18 13:31:54.573 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.9 to 38.8
+2018-10-18 13:32:01.382 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 42.6
+2018-10-18 13:32:04.761 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.6 to 38.8
+2018-10-18 13:32:11.520 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 42.5
+2018-10-18 13:32:15.020 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.5 to 38.8
+2018-10-18 13:32:53.261 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:31:53.243+0200 to 2018-10-18T13:32:53.246+0200
+2018-10-18 13:32:53.265 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:31:53.243+0200 to 2018-10-18T13:32:53.246+0200
+2018-10-18 13:33:53.258 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:32:53.246+0200 to 2018-10-18T13:33:53.249+0200
+2018-10-18 13:33:53.259 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:32:53.246+0200 to 2018-10-18T13:33:53.249+0200
+2018-10-18 13:34:53.259 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:33:53.249+0200 to 2018-10-18T13:34:53.252+0200
+2018-10-18 13:34:53.259 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:33:53.249+0200 to 2018-10-18T13:34:53.252+0200
+2018-10-18 13:35:53.263 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:34:53.252+0200 to 2018-10-18T13:35:53.254+0200
+2018-10-18 13:35:53.264 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:34:53.252+0200 to 2018-10-18T13:35:53.254+0200
+2018-10-18 13:36:08.169 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.8 to 40.9
+2018-10-18 13:36:15.032 [vent.ItemStateChangedEvent] - HumidMqtt changed from 40.9 to 38.9
+2018-10-18 13:36:18.409 [vent.ItemStateChangedEvent] - HumidMqtt changed from 38.9 to 41.9
+2018-10-18 13:36:21.788 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.9 to 39
+2018-10-18 13:36:28.547 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 42.6
+2018-10-18 13:36:31.927 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.6 to 39
+2018-10-18 13:36:38.657 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 42.1
+2018-10-18 13:36:42.040 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.1 to 39
+2018-10-18 13:36:48.809 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 42.4
+2018-10-18 13:36:52.214 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.4 to 39
+2018-10-18 13:36:53.263 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:35:53.254+0200 to 2018-10-18T13:36:53.257+0200
+2018-10-18 13:36:53.264 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:35:53.254+0200 to 2018-10-18T13:36:53.257+0200
+2018-10-18 13:36:59.062 [vent.ItemStateChangedEvent] - TempMqtt changed from 27.6 to 28.1
+2018-10-18 13:36:59.072 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39 to 42.9
+2018-10-18 13:37:02.442 [vent.ItemStateChangedEvent] - TempMqtt changed from 28.1 to 27.5
+2018-10-18 13:37:02.447 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.9 to 39.6
+2018-10-18 13:37:53.266 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:36:53.257+0200 to 2018-10-18T13:37:53.259+0200
+2018-10-18 13:37:53.267 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:36:53.257+0200 to 2018-10-18T13:37:53.259+0200
+2018-10-18 13:38:53.266 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:37:53.259+0200 to 2018-10-18T13:38:53.261+0200
+2018-10-18 13:38:53.267 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:37:53.259+0200 to 2018-10-18T13:38:53.261+0200
+2018-10-18 13:39:53.270 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:38:53.261+0200 to 2018-10-18T13:39:53.262+0200
+2018-10-18 13:39:53.271 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:38:53.261+0200 to 2018-10-18T13:39:53.262+0200
+2018-10-18 13:40:45.579 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.6 to 41.8
+2018-10-18 13:40:49.055 [vent.ItemStateChangedEvent] - HumidMqtt changed from 41.8 to 39.7
+2018-10-18 13:40:53.272 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:39:53.262+0200 to 2018-10-18T13:40:53.265+0200
+2018-10-18 13:40:53.272 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:39:53.262+0200 to 2018-10-18T13:40:53.265+0200
+2018-10-18 13:40:55.814 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.7 to 42.2
+2018-10-18 13:40:59.192 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.2 to 39.6
+2018-10-18 13:41:05.953 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.6 to 42.2
+2018-10-18 13:41:09.332 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.2 to 39.6
+2018-10-18 13:41:16.087 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.6 to 42.8
+2018-10-18 13:41:19.469 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.8 to 39.6
+2018-10-18 13:41:26.460 [vent.ItemStateChangedEvent] - HumidMqtt changed from 39.6 to 42.3
+2018-10-18 13:41:29.709 [vent.ItemStateChangedEvent] - HumidMqtt changed from 42.3 to 39.1
+2018-10-18 13:41:53.273 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:40:53.265+0200 to 2018-10-18T13:41:53.267+0200
+2018-10-18 13:41:53.276 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:40:53.265+0200 to 2018-10-18T13:41:53.267+0200
+2018-10-18 13:42:12.746 [vent.ItemStateChangedEvent] - AvgCo2Today changed from {date=2018-10-18, value=1090.476} to {date=2018-10-18, value=1090.1244}
+2018-10-18 13:42:53.276 [vent.ItemStateChangedEvent] - CurrTime changed from 2018-10-18T13:41:53.267+0200 to 2018-10-18T13:42:53.268+0200
+2018-10-18 13:42:53.278 [vent.ItemStateChangedEvent] - Date changed from 2018-10-18T13:41:53.267+0200 to 2018-10-18T13:42:53.268+0200

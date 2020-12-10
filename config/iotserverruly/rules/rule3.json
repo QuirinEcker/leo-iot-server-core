@@ -1,0 +1,16 @@
+{
+    "conditions":{
+        "all":[{
+            "fact": "co2",
+            "operator":"greaterThanInclusive",
+            "value": 1000
+        },{
+            "fact":"tag",
+            "operator":"equal",
+            "value":""
+        }]
+    },
+    "event":{
+        "type":20012
+    }
+}

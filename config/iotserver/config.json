@@ -1,0 +1,69 @@
+{
+    "name": "iotserver",
+    "topics": {
+        "all":"htlleonding/#",
+        "measurements":"htlleonding/+/+/+/+",
+        "lastwill": "htlleonding/+/+/+/+/lastwill",
+        "notifications": "htlleonding/+/+/+/+/notification"
+    },
+    "notification-codes": {
+        "sensor-offline": 20010
+    },
+    "broker": {
+        "type": "emq",
+        "clientid": "iotserverClient",
+        "address": {
+            "ip": "iotserverbroker",
+            "port": 1883,
+            "ca-pem-location": "certs/client1.pem",
+            "ca-key-location": "certs/client1.key"
+        },
+        "auth": {
+            "username": "server_client",
+            "password": "hcuwrl34"
+        }
+    },
+    "db" : {
+        "type": "timescale",
+        "language": "sys",
+        "address": {
+            "ip": "iotserverdb",
+            "port": 5432
+        },
+        "db-auth": {
+            "dbname":"postgres",
+            "username":"postgres",
+            "password":"password"
+        },
+        "data" : {
+            "delete-after": {
+                "years": 1,
+                "months": 0,
+                "days": 0
+            }
+        }
+    },
+    "distributor": {
+        "type": "mqtt",
+        "address": {
+            "ip": "iotserverbroker",
+            "port": 1883
+        },
+        "auth": {
+            "username": "server_client",
+            "password": "hcuwrl34",
+            "token": ""
+        },
+        "topics": {
+            "default": "notification"
+        }
+    },
+    "logger": {
+        "type": "console"
+    },
+    "clientapi": {
+        "url": "iotserver",
+        "port":9000,
+        "db-type": "timescale"
+    }
+}

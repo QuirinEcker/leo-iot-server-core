@@ -1,0 +1,27 @@
+{
+    "conditions": {
+        "all": [{
+            "fact": "rainingSoon",
+            "operator": "equal",
+            "value": true
+        },
+        {
+            "fact": "windowOpen",
+            "operator" : "equal",
+            "value": true
+        },
+        {
+            "fact":"tag",
+            "operator" : "equal",
+            "value":""
+        }]
+    },
+    "event":{
+        "type": "30001",
+        "params": {
+            "type":"FATAL",
+            "location": "",
+            "message":"Warning: Close Windows"
+        }
+    } 
+}

@@ -1,0 +1,32 @@
+{
+    "conditions": {
+        "all": [{
+            "fact": "lightTurnedOn",
+            "operator": "equal",
+            "value": true
+            },
+            {
+            "any":[{
+                "fact": "nobodyInside",
+                "operator": "equal",
+                "value": true
+            },{
+                "fact": "noLesson",
+                "operator": "equal",
+                "value": true
+            }]
+        },{
+            "fact": "tag",
+            "operator":"equal",
+            "value": ""
+        }]
+    },
+    "event":{
+        "type": "20001",
+        "params": {
+            "type": "WARNING",
+            "location": "",
+            "message":"Warning: Turn off the light"
+        }
+    }
+}

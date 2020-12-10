@@ -1,0 +1,16 @@
+sitemap demo label="Smart School" {
+    Frame label="Today"{
+        Text item=Date
+        Text item=CurrTime
+    }
+    Frame label="Mqtt"{
+        Group item=E582
+        Text item=CO2Mqtt valuecolor=[>1000="red"]
+        //Text item=TempMqtt
+        //Text item=HumidMqtt
+    }
+    Frame label="Rest"{
+        Group item=AvgRest
+        Text item=AvgCo2Today
+    }
+}

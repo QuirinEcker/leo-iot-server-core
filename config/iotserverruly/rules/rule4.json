@@ -1,0 +1,17 @@
+{
+    "_comment": "ONLY IMPORTANT FOR TDOT - NOT RELEVANT FOR DIPLOMA THESIS",
+    "conditions":{
+        "all":[{
+            "fact": "Power",
+            "operator":"greaterThanInclusive",
+            "value": 700
+        },{
+            "fact":"tag",
+            "operator":"equal",
+            "value":""
+        }]
+    },
+    "event":{
+        "type":20030
+    }
+}

@@ -1,0 +1,19 @@
+Group E582                                              <groundfloor>
+Group AvgRest                                           <groundfloor>
+
+DateTime Date      "Date [%1$tA, %1$td.%1$tm.%1$tY]"    <calendar>                              { channel="ntp:ntp:demo:dateTime" }
+DateTime CurrTime  "Time [%1$tH:%1$tM]"                 <time>                                  { channel="ntp:ntp:demo:dateTime" }
+
+
+//Mqtt
+Number  CO2Mqtt      "CO2 [%s ppm]"                     <carbondioxide>     (E582)              {mqtt="<[mqttBroker:htlleonding/firstfloor/E582/deco2/co2:state:JSONPATH($.value)]"}
+Number  TempMqtt     "Temperatur [%s °C]"               <temperature>       (E582)              {mqtt="<[mqttBroker:htlleonding/firstfloor/E582/detemperature/temperature:state:JSONPATH($.value)]"}
+Number  HumidMqtt    "Humidity [%s %%]"                 <humidity>          (E582)              {mqtt="<[mqttBroker:htlleonding/firstfloor/E582/dehumidity/humidity:state:JSONPATH($.value)]"}
+
+
+//Rest
+String AvgCo2Today   "Tagesdurchschitt [%s]"            <carbondioxide>                         { http="<[http://vm61.htl-leonding.ac.at:9090/measurement/average/day/firstfloor/E582/co2/2018-10-18/2018-10-18/en:1000:JSONPATH($.averagefordays)]" }
+String AvgCo21010    "Durchschnitt Mittwoch [%s]"       <carbondioxide>      (AvgRest)          { http="<[http://vm61.htl-leonding.ac.at:9090/measurement/average/day/firstfloor/E582/co2/2018-10-10/2018-10-10/en:3000:JSONPATH($.averagefordays)]" }
+String AvgCo21110    "Durchschnitt Donnerstag [%s]"     <carbondioxide>      (AvgRest)          { http="<[http://vm61.htl-leonding.ac.at:9090/measurement/average/day/firstfloor/E582/co2/2018-10-11/2018-10-11/en:3000:JSONPATH($.averagefordays)]" }
+String AvgCo21410    "Durchschnitt Sonntag [%s]"        <carbondioxide>      (AvgRest)          { http="<[http://vm61.htl-leonding.ac.at:9090/measurement/average/day/firstfloor/E582/co2/2018-10-14/2018-10-14/en:3000:JSONPATH($.averagefordays)]" }
+String AvgCo21710    "Durchschnitt Mittwoch [%s]"       <carbondioxide>      (AvgRest)          { http="<[http://vm61.htl-leonding.ac.at:9090/measurement/average/day/firstfloor/E582/co2/2018-10-17/2018-10-17/en:3000:JSONPATH($.averagefordays)]" }
